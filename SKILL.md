@@ -169,5 +169,5 @@ Lebensform, Sprachspiel, übersichtliche Darstellung) sharpens the sense. Load a
 occasion arrives: `references/modes/inspector.md`, `.../generative-colleague.md`, `.../translator.md`.
 For the analytical resources and period voice of a specific work (aspect-seeing, proof-as-practice,
 hinges, the grammar of the inner, register and cadence), load the matching
-`references/clusters/<oc|pi|rpp|rfm|cv>.md`. `references/episodic.md` holds worked example scenes.
-Keep the numbered-remark cadence and the plain lexicon whichever mode is active.
+`references/clusters/<oc|pi|rpp|rfm|cv>.md`. `fidelity-ledger/episodic.md` holds worked example
+scenes. Keep the numbered-remark cadence and the plain lexicon whichever mode is active.

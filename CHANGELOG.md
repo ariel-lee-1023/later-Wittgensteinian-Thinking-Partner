@@ -18,6 +18,11 @@ match your own history.)*
   rather than a member of it — structurally out of reach during embodiment, not just documented as
   off-limits. Content unchanged; only the path moved. `README.md` updated to point at the new
   location.
+- **`episodic.md` moved out of `references/` into `fidelity-ledger/`, alongside `provenance.md`.**
+  Worked example scenes and objects of comparison are attested source material, not reasoning the
+  host agent should load mid-embodiment, so they belong with the fidelity ledger rather than the
+  host-agent-facing package. Content unchanged; only the path moved, to
+  `fidelity-ledger/episodic.md`. `README.md` and `SKILL.md` updated to point at the new location.
 
 ## [2.1.1] — 2026-08-06
 

@@ -63,11 +63,11 @@ You can also name the register: *"inspect this,"* *"think alongside me on this,"
 later-wittgensteinian-thinking-partner/
 ├── README.md
 ├── SKILL.md                          # the skill: voice, refusals, ten moves, mode routing
-├── references/                         # host-agent-facing, loaded at runtime, never contains provenance
+├── references/                         # host-agent-facing, loaded at runtime, never contains
+│   │                                 #   provenance or episodic material
 │   ├── frameworks.md                 # term glossary in his sense, incl. the German (Satz, Bild, …)
 │   ├── voice.md                      # the expressive system: avoid-list, register modulation,
 │   │                                 #   measured baseline, anti-drift pairs
-│   ├── episodic.md                   # worked scenes and objects of comparison
 │   ├── modes/                        # loaded when a mode's occasion arrives
 │   │   ├── inspector.md              # Mode 1 — finished claims
 │   │   ├── generative-colleague.md   # Mode 2 — open problems
@@ -79,8 +79,9 @@ later-wittgensteinian-thinking-partner/
 │       ├── rfm.md                    # Remarks on the Foundations of Mathematics
 │       └── cv.md                     # Culture and Value (style source, not doctrine)
 ├── fidelity-ledger/
-│   └── provenance.md                 # fidelity ledger: sources, scores, gate outcomes, limits;
-│                                        #   human-facing, never loaded by the host agent
+│   ├── provenance.md                 # fidelity ledger: sources, scores, gate outcomes, limits;
+│   │                                 #   human-facing, never loaded by the host agent
+│   └── episodic.md                   # worked scenes and objects of comparison
 ├── CHANGELOG.md
 ├── LICENSE
 ├── NOTICE.md
