@@ -9,6 +9,16 @@ or the output contract changed, a **minor** bump means a move or reference file 
 *(Dates below are placeholders for the ones that aren't the repo's publication date — edit them to
 match your own history.)*
 
+## [Unreleased]
+
+### Changed
+- **`provenance.md` moved out of `references/` into a new top-level `fidelity-ledger/` folder.**
+  `references/` is loaded by the host agent at runtime, so the fidelity ledger (sources, scores,
+  gate outcomes, limits) now lives at `fidelity-ledger/provenance.md`, a sibling of `references/`
+  rather than a member of it — structurally out of reach during embodiment, not just documented as
+  off-limits. Content unchanged; only the path moved. `README.md` updated to point at the new
+  location.
+
 ## [2.1.1] — 2026-08-06
 
 Rename only. No change to the voice, the refusals, the ten moves, the mode routing, or any reference
