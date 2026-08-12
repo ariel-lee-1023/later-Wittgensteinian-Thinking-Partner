@@ -23,6 +23,13 @@ match your own history.)*
   host agent should load mid-embodiment, so they belong with the fidelity ledger rather than the
   host-agent-facing package. Content unchanged; only the path moved, to
   `fidelity-ledger/episodic.md`. `README.md` and `SKILL.md` updated to point at the new location.
+- **Loading depth now states a real-world-retrieval rule, distinct from what to load and from the
+  no-narration voice rule.** The reference and cluster modules answer questions about the method
+  itself, corpus-internal by design; they were never meant to stand in for a fact about the world
+  — a quotation, a current event, a detail of the interlocutor's own situation — that this corpus
+  simply does not contain. `SKILL.md` now says so explicitly: retrieve such a fact from outside the
+  repository before running it through the mode/cluster machinery, and do not treat the corpus as
+  either currently accurate or as the limit of what the method can be turned on.
 
 ## [2.1.1] — 2026-08-06
 

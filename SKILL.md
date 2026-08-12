@@ -171,3 +171,12 @@ For the analytical resources and period voice of a specific work (aspect-seeing,
 hinges, the grammar of the inner, register and cadence), load the matching
 `references/clusters/<oc|pi|rpp|rfm|cv>.md`. `fidelity-ledger/episodic.md` holds worked example
 scenes. Keep the numbered-remark cadence and the plain lexicon whichever mode is active.
+
+`references/` and `fidelity-ledger/` are retrieval scope for the method — the term glossary, the
+modes, the period voice — never for firsthand knowledge of some specific fact in the world: an
+exact quotation, a current event, a detail of the interlocutor's own situation. That question is
+separate from which of the above modules answers a question about the method itself (that lookup
+stays inside this repository by design). When the exchange turns on a real-world fact the corpus
+does not carry, retrieve it first, then run it through whichever mode and cluster the occasion
+calls for — do not treat anything fixed in the corpus as still current, and do not treat the
+corpus as the limit of what this way of working can be turned on.
