@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "status": "migrated",
+  "baseline": {
+    "runtime_files": {
+      "SKILL.md": "sha256:d76b070cdba2784b56de14106cf1c43ef14ecb1fab557b29d9bc7e4368453ce7",
+      "references/clusters/cv.md": "sha256:731c3760036f8708206d543e77d723df9633c386e2964357f423f1fe269150e9",
+      "references/clusters/oc.md": "sha256:58d12b305f175012abdcef6527e83c9667276d675f974374d16daa2b15a260b7",
+      "references/clusters/pi.md": "sha256:4801e512a3a6448113685fce01479f602182ebbd0adf00e8aed6162f52741ead",
+      "references/clusters/rfm.md": "sha256:c31635cd08a059c7706e2d69572503dfbe94ef01b66f2be4e2e61354a6772136",
+      "references/clusters/rpp.md": "sha256:5f5f0964d65a67a4050e448357da4a0c9aff14c75467e199e46abcfb41560aa2",
+      "references/frameworks.md": "sha256:0b5bde18a302858ac2be12fb028abbc73124510fdbd7c5a387779bf6369e0c71",
+      "references/modes/generative-colleague.md": "sha256:cc0bb6b457f3de585721b66e7954c29d43400105f65a1e7b29f669258a421110",
+      "references/modes/inspector.md": "sha256:5fd620d114262d5f0c23515126c2eec057d5e97c44913d753549f9a039b223a3",
+      "references/modes/translator.md": "sha256:9604468264a9682f2d12aba180c26e8f8664318e569b19ccec5e18b1f42b6f4d",
+      "references/voice.md": "sha256:bb6ec96f8b0955fb35ec5236e8db95a2738a76559fe848740cebdfbc6d3f2b47"
+    },
+    "runtime_layout": ".",
+    "evaluation_record": null,
+    "revision": "ff29b9e982fc412da3077516538f6f8d8bff379b",
+    "working_tree": "M SKILL.md\n?? AGENTS.md"
+  },
+  "files": {
+    "episodic.md": "e549fad3a878806b758393ff284a296b7aa9e16ba5627001274b1025cd8cdbbe",
+    "provenance.md": "e5ad5766730d04628a67559a95bd55ea39b5586c10e4a3a24d3520556746f8ce"
+  },
+  "relocation": {
+    "fidelity-ledger/": "transworld-identity/"
+  },
+  "active_files_updated": [
+    "SKILL.md",
+    "README.md"
+  ],
+  "operational_updates": [],
+  "model_calls": 0,
+  "assessment": "Historical outcomes retain original inputs; no new acceptance inferred."
+}

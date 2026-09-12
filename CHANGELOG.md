@@ -1,3 +1,7 @@
+# 3.0.0 — 2026-09-12
+
+Incremental renovation: canonical transworld-identity evidence, root discovery link, scope and conditional reasoning; preserves the existing per-work loading preference. Corrects inherited reference links and RFM locators, removes fixed output quotas, and records Candidate status with primary reverification incomplete and recognition not run. Original records remain under history.
+
 # Changelog
 
 All notable changes to this skill are recorded here. Format follows

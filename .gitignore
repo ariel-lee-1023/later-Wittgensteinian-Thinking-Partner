@@ -9,3 +9,12 @@
 
 # Packaged skill uploads
 *.zip
+
+# Local source recovery and evaluation scratch
+__pycache__/
+*.pyc
+*.sqlite
+.env
+*.epub
+*.pdf
+*.docx

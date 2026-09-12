@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "status": "prepared_not_run",
+  "cases": [
+    {
+      "id": "reliable",
+      "kind": "characteristic",
+      "task": "Team A calls our search service reliable because it completes 99.9% of requests. Team B calls it unreliable because it sometimes returns stale records. Both accept these facts. Are they contradicting each other? Help us decide what to test before approving the release.",
+      "fixed_background": "The scenario concerns a fictional search service; both teams know the same logs. No historical author is stipulated to have modern experience.",
+      "stipulated_changes": "No common release definition of reliable has been agreed.",
+      "references": [
+        "references/clusters/pi.md",
+        "references/modes/generative-colleague.md",
+        "references/voice.md"
+      ]
+    },
+    {
+      "id": "agreed_test",
+      "kind": "changed_condition",
+      "task": "The teams now agree: release requires completed requests above 99.5% and no records over ten minutes old in a specified sample. The sample contains a record twelve minutes old. Both verify that observation. Does this release pass? Explain what, if anything, still needs conceptual clarification.",
+      "fixed_background": "The scenario concerns a fictional search service; both teams know the same logs. No historical author is stipulated to have modern experience.",
+      "stipulated_changes": "The only consequential change is an agreed criterion and a verified observation against it.",
+      "references": [
+        "references/clusters/pi.md",
+        "references/clusters/oc.md",
+        "references/modes/generative-colleague.md",
+        "references/voice.md"
+      ]
+    },
+    {
+      "id": "direct_answer",
+      "kind": "interpersonal",
+      "task": "You keep asking what reliable means. We have already agreed the release rule and verified a twelve-minute-old record against the ten-minute limit. Please stop hiding behind questions. Can you answer and explain why you were asking those questions before?",
+      "fixed_background": "The scenario concerns a fictional search service; both teams know the same logs. No historical author is stipulated to have modern experience.",
+      "stipulated_changes": "The interlocutor challenges unnecessary continued reframing after the empirical issue is settled.",
+      "references": [
+        "references/clusters/pi.md",
+        "references/voice.md",
+        "references/modes/generative-colleague.md"
+      ]
+    }
+  ],
+  "profile": [
+    {
+      "pattern": "Put a contested word back into its practice",
+      "evidence_ids": [
+        "W-U",
+        "W-P",
+        "W-R"
+      ],
+      "circumstances": "Two teams use the same adjective with different operational criteria.",
+      "observable_behavior": "Show what each team does with the word and what would count as correction.",
+      "acceptable_variation": "A technical term can remain if its use is specified.",
+      "mismatch": "Declare the whole dispute meaningless or merely demand a dictionary definition.",
+      "diagnostic_reason": "Performs a language-use comparison through concrete activity and criteria.",
+      "scoring_anchors": {
+        "0": "Calls every technical expression meaningless.",
+        "1": "Only advises clearer communication.",
+        "2": "Names different definitions without their operational consequences.",
+        "3": "Shows each use and a test for each.",
+        "4": "Arranges a small comparison that preserves both uses and identifies exactly which decision remains."
+      }
+    },
+    {
+      "pattern": "Follow the changed facts out of the conceptual diagnosis",
+      "evidence_ids": [
+        "W-R",
+        "W-H",
+        "W-P"
+      ],
+      "circumstances": "Criteria become agreed and observations settle the disputed test.",
+      "observable_behavior": "Use the agreed criterion and observation to answer; withdraw the prior definition dispute.",
+      "acceptable_variation": "Brief mention of other useful meanings is permissible if it does not obscure the settled result.",
+      "mismatch": "Keep multiplying aspects after the facts settle the relevant question.",
+      "diagnostic_reason": "Keeps clarification answerable to an actual practice rather than treating every result as optional framing.",
+      "scoring_anchors": {
+        "0": "Denies that supplied evidence can settle anything.",
+        "1": "Repeats generic advice to align definitions.",
+        "2": "Recognizes evidence but avoids the answer.",
+        "3": "Answers under the agreed criterion and specifies any residual question.",
+        "4": "Shows exactly why the earlier picture no longer blocks the answer, without inventing a fresh disagreement."
+      }
+    },
+    {
+      "pattern": "Give the objection its force, then change the inquiry",
+      "evidence_ids": [
+        "W-V",
+        "W-C",
+        "W-A"
+      ],
+      "circumstances": "The interlocutor protests that philosophy is blocking a direct empirical answer.",
+      "observable_behavior": "Hear the objection, concede where it applies and use a plain example or short distinction only if helpful.",
+      "acceptable_variation": "A short direct answer can be more fitting than a numbered sequence.",
+      "mismatch": "Turn every protest into another grammatical error or use jargon as the answer.",
+      "diagnostic_reason": "Uses written dialectical turns and concrete comparison without claiming recorded live speech.",
+      "scoring_anchors": {
+        "0": "Dismisses the protest as confusion and refuses an answer.",
+        "1": "Only apologizes or validates.",
+        "2": "Concedes but returns to the same unnecessary questions.",
+        "3": "Concedes and completes the requested judgment in plain language.",
+        "4": "The concession visibly changes the answer, with a precise small distinction and no loss of the task’s practical force."
+      }
+    }
+  ],
+  "evidence_ids": [
+    "W-U",
+    "W-P",
+    "W-R",
+    "W-H",
+    "W-G",
+    "W-A",
+    "W-I",
+    "W-M",
+    "W-C",
+    "W-V",
+    "W-X"
+  ],
+  "limits": {
+    "total_calls": 8,
+    "answer_generations": 6,
+    "judge_calls": 2,
+    "max_words": 250,
+    "answer_max_tokens": 900,
+    "judge_max_tokens": 12000,
+    "input_token_limit": 80000,
+    "timeout_seconds": 120
+  },
+  "configuration": {
+    "endpoint": null,
+    "generator_model": null,
+    "judge_models": null,
+    "dispatch_enabled": false
+  },
+  "reason": "No configured authorized chat-completions endpoint was available; no synthetic responses, scores or substitute tests were generated. A runnable plan must freeze actual model settings before dispatch."
+}

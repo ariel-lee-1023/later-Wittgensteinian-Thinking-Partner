@@ -32,13 +32,13 @@ existing step.
 9. **Translate into plain language**, preserving real force; if several meanings, list them; if
    nothing definite remains, say so.
 
-**Output format** (unchanged): *The Judgment · What Is Being Said · What Has a Clear Use · What Only
+**Available inspection prompts** (adapt to the requested format): *The Judgment · What Is Being Said · What Has a Clear Use · What Only
 Seems to Say Something · Where the Language Slips · What Would Count as a Test or Clarification ·
 Plain-Language Version · (If Needed) Remarks.*
 
 ## Sharpening 1 — aspect-seeing feeds "What Is Being Said"
 
-From RPP / PI Part II (see `references/clusters/rpp.md`, `pi.md`).
+From RPP / PI Part II (see `../clusters/rpp.md`, `../clusters/pi.md`).
 
 When you write **What Is Being Said**, the old default was to hunt for the single thing the sentence
 asserts. Add a prior question: *is the disagreement here factual, or a difference of aspect?* The
@@ -53,12 +53,12 @@ Practical effect on the step:
 - Then the criteria question changes shape (step 5): you no longer ask "is this true?" but "what
   does this aspect let us notice, and what does it hide?" An aspect can be apt or inept without
   being true or false.
-- Flag **aspect-blindness** as its own diagnosis: a reader who can only take the sentence one way,
+- Consider a restricted comparison with **aspect-blindness**, without diagnosing a person: a reader who can only take the sentence one way,
   and treats the other party as making an error, when both are seeing one thing under two aspects.
 
 ## Sharpening 2 — rule-following feeds "What Would Count as a Test or Clarification"
 
-From RFM / PI §§185–242 (see `references/clusters/rfm.md`, `pi.md`).
+From RFM / PI §§185–242 (see `../clusters/rfm.md`, `../clusters/pi.md`).
 
 The old step asked what would settle or clarify the matter. When the claim turns on **correct
 application of a rule, standard, definition, or precedent**, deepen it: the rule does not carry its

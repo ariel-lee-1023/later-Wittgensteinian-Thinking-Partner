@@ -1,0 +1,183 @@
+{
+  "summary": "Legacy renovation completed as Candidate: runtime conditions and attribution revised, historical evidence retained; primary-source reverification and machine recognition remain incomplete.",
+  "reviewer": "Codex machine-assisted editorial review of retained package material",
+  "reviewed_all_core_claims": true,
+  "revision": "ff29b9e982fc412da3077516538f6f8d8bff379b",
+  "limitations": [
+    "Only retained repository excerpts and summaries were reviewed; original source editions and raw historic evaluation outputs were not supplied or newly located.",
+    "Source judgments are machine-assisted editorial review, not an independent historical audit.",
+    "Bounded recognition was not run: no configured authorized chat-completions endpoint or PERSONA_API_KEY was available. No fresh-context answer/judge calls were dispatched.",
+    "Historical scores describe old inputs and protocols; no present recognition or calibrated human-acceptance probability follows.",
+    "English voice statistics are inherited translation/OCR-dependent reports and were not recomputed.",
+    "Modern professional collaboration and text transformation remain interpretive applications; CV source locators are incomplete."
+  ],
+  "source_checks": [
+    {
+      "claim": "Tools and uses differ; the use reminder is limited to a large class of cases.",
+      "outcome": "inconclusive",
+      "assessment": "Checked consistency with the retained located excerpt/summary and the revised conditional instruction. Original edition wording and historical attribution were not independently reverified.",
+      "condition_or_exception": "A puzzling expression needs its employment shown. Exception: Technical uses and exact definitions may already work.",
+      "evidence_ids": [
+        "W-U"
+      ],
+      "dependencies": {
+        "SKILL.md": "sha256:cdb0834d00860f5dc1c5e3ce78ef74b2a15e0e8696299a91a4741c45fd122545",
+        "references/clusters/pi.md": "sha256:4eef8383dfd7dff3cefb8a9b434e73e91803804e86c1c5d0f3154c266046b14e"
+      },
+      "implementation_safeguard": false
+    },
+    {
+      "claim": "The movement returns words to use and arranges cases as objects of comparison.",
+      "outcome": "inconclusive",
+      "assessment": "Checked consistency with the retained located excerpt/summary and the revised conditional instruction. Original edition wording and historical attribution were not independently reverified.",
+      "condition_or_exception": "A recognizable picture is actually shaping the difficulty. Exception: A factual gap need not be a grammatical confusion; reject a proposed picture the case does not support.",
+      "evidence_ids": [
+        "W-P"
+      ],
+      "dependencies": {
+        "SKILL.md": "sha256:cdb0834d00860f5dc1c5e3ce78ef74b2a15e0e8696299a91a4741c45fd122545",
+        "references/clusters/pi.md": "sha256:4eef8383dfd7dff3cefb8a9b434e73e91803804e86c1c5d0f3154c266046b14e"
+      },
+      "implementation_safeguard": false
+    },
+    {
+      "claim": "Practice and training matter; understanding a rule need not consist in another interpretation.",
+      "outcome": "inconclusive",
+      "assessment": "Checked consistency with the retained located excerpt/summary and the revised conditional instruction. Original edition wording and historical attribution were not independently reverified.",
+      "condition_or_exception": "Disputed application requires examination of examples and corrections. Exception: An established practice may already settle this case.",
+      "evidence_ids": [
+        "W-R"
+      ],
+      "dependencies": {
+        "SKILL.md": "sha256:cdb0834d00860f5dc1c5e3ce78ef74b2a15e0e8696299a91a4741c45fd122545",
+        "references/clusters/pi.md": "sha256:4eef8383dfd7dff3cefb8a9b434e73e91803804e86c1c5d0f3154c266046b14e"
+      },
+      "implementation_safeguard": false
+    },
+    {
+      "claim": "Some propositions function as conditions of testing; their roles can shift.",
+      "outcome": "inconclusive",
+      "assessment": "Checked consistency with the retained located excerpt/summary and the revised conditional instruction. Original edition wording and historical attribution were not independently reverified.",
+      "condition_or_exception": "The inquiry’s operative background is identifiable. Exception: Confidence alone does not confer hinge status; actual changes in practice matter.",
+      "evidence_ids": [
+        "W-H"
+      ],
+      "dependencies": {
+        "SKILL.md": "sha256:cdb0834d00860f5dc1c5e3ce78ef74b2a15e0e8696299a91a4741c45fd122545",
+        "references/clusters/oc.md": "sha256:89db9e682d5445fb93a3bb25b9afa126e5b90c848560e2491400e258c5634c2c"
+      },
+      "implementation_safeguard": false
+    },
+    {
+      "claim": "Reasons can end in acting without supplying an ultimate theoretical foundation.",
+      "outcome": "inconclusive",
+      "assessment": "Checked consistency with the retained located excerpt/summary and the revised conditional instruction. Original edition wording and historical attribution were not independently reverified.",
+      "condition_or_exception": "The issue is the demand for an indefinitely deeper justification. Exception: This does not waive checking an ordinary disputed fact.",
+      "evidence_ids": [
+        "W-G"
+      ],
+      "dependencies": {
+        "SKILL.md": "sha256:cdb0834d00860f5dc1c5e3ce78ef74b2a15e0e8696299a91a4741c45fd122545",
+        "references/clusters/oc.md": "sha256:89db9e682d5445fb93a3bb25b9afa126e5b90c848560e2491400e258c5634c2c"
+      },
+      "implementation_safeguard": false
+    },
+    {
+      "claim": "Dawning and continued seeing differ; aspects are not merely free opinions.",
+      "outcome": "inconclusive",
+      "assessment": "Checked consistency with the retained located excerpt/summary and the revised conditional instruction. Original edition wording and historical attribution were not independently reverified.",
+      "condition_or_exception": "The same facts admit a consequential way of taking them. Exception: Some disagreements are empirical or normative; aspects do not settle those by themselves.",
+      "evidence_ids": [
+        "W-A"
+      ],
+      "dependencies": {
+        "SKILL.md": "sha256:cdb0834d00860f5dc1c5e3ce78ef74b2a15e0e8696299a91a4741c45fd122545",
+        "references/clusters/rpp.md": "sha256:4c75384b60ede7b530b55d0f44b8a07c033696d3688e5700a758a5eb8b72ac63"
+      },
+      "implementation_safeguard": false
+    },
+    {
+      "claim": "Avowals and criteria have uses within a life; psychological concepts can be surveyed as a family.",
+      "outcome": "inconclusive",
+      "assessment": "Checked consistency with the retained located excerpt/summary and the revised conditional instruction. Original edition wording and historical attribution were not independently reverified.",
+      "condition_or_exception": "The question concerns how such words function. Exception: Outward criteria do not establish that inner experience is unreal.",
+      "evidence_ids": [
+        "W-I"
+      ],
+      "dependencies": {
+        "SKILL.md": "sha256:cdb0834d00860f5dc1c5e3ce78ef74b2a15e0e8696299a91a4741c45fd122545",
+        "references/frameworks.md": "sha256:9eb61641df700f457e55edc55cd853bfa2338ca95efb13fa12bfbe83f9e1ff12"
+      },
+      "implementation_safeguard": false
+    },
+    {
+      "claim": "Proof can deposit a paradigm; surveyability concerns reproducing steps, and necessity is examined through the application of rules.",
+      "outcome": "inconclusive",
+      "assessment": "Checked consistency with the retained located excerpt/summary and the revised conditional instruction. Original edition wording and historical attribution were not independently reverified.",
+      "condition_or_exception": "The issue concerns the role of proof or a warranted analogy to standards. Exception: Invention does not mean caprice or that every application changes the rule.",
+      "evidence_ids": [
+        "W-M"
+      ],
+      "dependencies": {
+        "SKILL.md": "sha256:cdb0834d00860f5dc1c5e3ce78ef74b2a15e0e8696299a91a4741c45fd122545",
+        "references/clusters/rfm.md": "sha256:5f313ed577cfeb20c69504c9dfda0cbb32f30a7595795c4e15b69d0f4d6f9e77"
+      },
+      "implementation_safeguard": false
+    },
+    {
+      "claim": "Short returns to a difficulty, self-questioning and comparison support a reflective cadence.",
+      "outcome": "inconclusive",
+      "assessment": "Checked consistency with the retained located excerpt/summary and the revised conditional instruction. Original edition wording and historical attribution were not independently reverified.",
+      "condition_or_exception": "Reflective writing or a requested adaptation of it. Exception: This is not a measured live conversational register or a requirement to repeat needlessly.",
+      "evidence_ids": [
+        "W-C"
+      ],
+      "dependencies": {
+        "SKILL.md": "sha256:cdb0834d00860f5dc1c5e3ce78ef74b2a15e0e8696299a91a4741c45fd122545",
+        "references/clusters/cv.md": "sha256:e69f42f1f4c45988a52bff4f7c0673bba7bc229ecbdade4fc1af609e94290929"
+      },
+      "implementation_safeguard": false
+    },
+    {
+      "claim": "A concrete case, voiced objection and short turn can coexist with patient qualification.",
+      "outcome": "inconclusive",
+      "assessment": "Checked consistency with the retained located excerpt/summary and the revised conditional instruction. Original edition wording and historical attribution were not independently reverified.",
+      "condition_or_exception": "Sustained prose and dialogue adaptations. Exception: No compulsory punctuation, numerical target or ban on useful words.",
+      "evidence_ids": [
+        "W-V"
+      ],
+      "dependencies": {
+        "SKILL.md": "sha256:cdb0834d00860f5dc1c5e3ce78ef74b2a15e0e8696299a91a4741c45fd122545",
+        "references/voice.md": "sha256:d4f415461f5b5bcd3fab8fee576b31b9f6f28be456cd76b086aa64db39895417"
+      },
+      "implementation_safeguard": false
+    },
+    {
+      "claim": "The three modes organize conceptual clarification and preserve a supplied text’s substantive force.",
+      "outcome": "inconclusive",
+      "assessment": "Checked consistency with the retained located excerpt/summary and the revised conditional instruction. Original edition wording and historical attribution were not independently reverified.",
+      "condition_or_exception": "The actual request calls for one of these operations. Exception: Factual questions can receive factual answers; changing style must not silently change the claim.",
+      "evidence_ids": [
+        "W-X"
+      ],
+      "dependencies": {
+        "SKILL.md": "sha256:cdb0834d00860f5dc1c5e3ce78ef74b2a15e0e8696299a91a4741c45fd122545",
+        "references/modes/translator.md": "sha256:ece14cf5682c5edee6a8aa839b5eb494f4027651898e7d31d01c1b5c20e2973c"
+      },
+      "implementation_safeguard": false
+    },
+    {
+      "claim": "Task and format control, factual honesty, response to corrections and avoiding forged memories.",
+      "outcome": "passed",
+      "assessment": "Explicit implementation safeguards, not asserted biographical dispositions; applied to every core procedure and loading path.",
+      "condition_or_exception": "Use with any task; a historical voice cannot override the actual request.",
+      "evidence_ids": [],
+      "dependencies": {
+        "SKILL.md": "sha256:cdb0834d00860f5dc1c5e3ce78ef74b2a15e0e8696299a91a4741c45fd122545",
+        "references/scope.md": "sha256:dfc4d0c851f538593c1144bc4936a901ca40d28cfd8ccce4590331d347da905b"
+      },
+      "implementation_safeguard": true
+    }
+  ],
+  "coverage_note": "All core procedures, ten source-specific challenges or ten conceptual moves, scope, interaction, voice and loading guidance reviewed. Long reference modules were inspected selectively; untouched source claims retain their prior limitations."
+}

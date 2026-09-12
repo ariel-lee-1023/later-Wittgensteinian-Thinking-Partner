@@ -1,0 +1,324 @@
+{
+  "schema_version": 1,
+  "records": [
+    {
+      "id": "W-U",
+      "source": "Philosophical Investigations",
+      "locator": "§§11, 23, 43; retained PI moves 2–3",
+      "attribution": "Wittgenstein’s remarks, mediated by English translation",
+      "group_id": "Philosophical Investigations",
+      "situation": "Demanding one account of what words mean",
+      "audience": "The work’s written or imagined reader; contemporary users only by editorial extension.",
+      "available_information": "Retained repository excerpts and source summaries; no newly inspected full source edition.",
+      "constraints": "Translation, literary framing and incomplete original-text access limit attribution.",
+      "observation": "Tools and uses differ; the use reminder is limited to a large class of cases.",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "A puzzling expression needs its employment shown."
+      ],
+      "exceptions": [
+        "Technical uses and exact definitions may already work."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "SKILL.md",
+        "references/clusters/pi.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "Preserve the supported move while limiting automatic application; primary wording remains unverified in this upgrade."
+      },
+      "review_status": "retained_material_reviewed; primary_reverification_unavailable"
+    },
+    {
+      "id": "W-P",
+      "source": "Philosophical Investigations",
+      "locator": "§§115–116, 122, 130–133; retained PI moves",
+      "attribution": "Wittgenstein’s remarks, mediated by translation",
+      "group_id": "Philosophical Investigations",
+      "situation": "A philosophical image holds a question captive",
+      "audience": "The work’s written or imagined reader; contemporary users only by editorial extension.",
+      "available_information": "Retained repository excerpts and source summaries; no newly inspected full source edition.",
+      "constraints": "Translation, literary framing and incomplete original-text access limit attribution.",
+      "observation": "The movement returns words to use and arranges cases as objects of comparison.",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "A recognizable picture is actually shaping the difficulty."
+      ],
+      "exceptions": [
+        "A factual gap need not be a grammatical confusion; reject a proposed picture the case does not support."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "SKILL.md",
+        "references/clusters/pi.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "Preserve the supported move while limiting automatic application; primary wording remains unverified in this upgrade."
+      },
+      "review_status": "retained_material_reviewed; primary_reverification_unavailable"
+    },
+    {
+      "id": "W-R",
+      "source": "Philosophical Investigations",
+      "locator": "§§185–202, 217, 241–242; retained rule-following account",
+      "attribution": "Wittgenstein’s remarks, not a new legal ruling",
+      "group_id": "Philosophical Investigations",
+      "situation": "How a rule is followed and corrected",
+      "audience": "The work’s written or imagined reader; contemporary users only by editorial extension.",
+      "available_information": "Retained repository excerpts and source summaries; no newly inspected full source edition.",
+      "constraints": "Translation, literary framing and incomplete original-text access limit attribution.",
+      "observation": "Practice and training matter; understanding a rule need not consist in another interpretation.",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "Disputed application requires examination of examples and corrections."
+      ],
+      "exceptions": [
+        "An established practice may already settle this case."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "SKILL.md",
+        "references/clusters/pi.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "Preserve the supported move while limiting automatic application; primary wording remains unverified in this upgrade."
+      },
+      "review_status": "retained_material_reviewed; primary_reverification_unavailable"
+    },
+    {
+      "id": "W-H",
+      "source": "On Certainty",
+      "locator": "§§96–99, 341–343; retained OC moves 1–2",
+      "attribution": "Wittgenstein’s notebook remarks",
+      "group_id": "On Certainty",
+      "situation": "The background of an inquiry and changes in its riverbed",
+      "audience": "The work’s written or imagined reader; contemporary users only by editorial extension.",
+      "available_information": "Retained repository excerpts and source summaries; no newly inspected full source edition.",
+      "constraints": "Translation, literary framing and incomplete original-text access limit attribution.",
+      "observation": "Some propositions function as conditions of testing; their roles can shift.",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "The inquiry’s operative background is identifiable."
+      ],
+      "exceptions": [
+        "Confidence alone does not confer hinge status; actual changes in practice matter."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "SKILL.md",
+        "references/clusters/oc.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "Preserve the supported move while limiting automatic application; primary wording remains unverified in this upgrade."
+      },
+      "review_status": "retained_material_reviewed; primary_reverification_unavailable"
+    },
+    {
+      "id": "W-G",
+      "source": "On Certainty; Philosophical Investigations",
+      "locator": "OC §110; PI §§211, 217; retained framework and voice",
+      "attribution": "Wittgenstein’s remarks in their inquiries",
+      "group_id": "On Certainty",
+      "situation": "A demand to justify every act by one more reason",
+      "audience": "The work’s written or imagined reader; contemporary users only by editorial extension.",
+      "available_information": "Retained repository excerpts and source summaries; no newly inspected full source edition.",
+      "constraints": "Translation, literary framing and incomplete original-text access limit attribution.",
+      "observation": "Reasons can end in acting without supplying an ultimate theoretical foundation.",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "The issue is the demand for an indefinitely deeper justification."
+      ],
+      "exceptions": [
+        "This does not waive checking an ordinary disputed fact."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "SKILL.md",
+        "references/clusters/oc.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "Preserve the supported move while limiting automatic application; primary wording remains unverified in this upgrade."
+      },
+      "review_status": "retained_material_reviewed; primary_reverification_unavailable"
+    },
+    {
+      "id": "W-A",
+      "source": "Remarks on the Philosophy of Psychology I",
+      "locator": "§§2, 20, 31, 518, 861–864; retained RPP moves 1–2",
+      "attribution": "Wittgenstein’s remarks, Anscombe edition as recorded",
+      "group_id": "Remarks on the Philosophy of Psychology I",
+      "situation": "An ambiguous figure and the expression of seeing an aspect",
+      "audience": "The work’s written or imagined reader; contemporary users only by editorial extension.",
+      "available_information": "Retained repository excerpts and source summaries; no newly inspected full source edition.",
+      "constraints": "Translation, literary framing and incomplete original-text access limit attribution.",
+      "observation": "Dawning and continued seeing differ; aspects are not merely free opinions.",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "The same facts admit a consequential way of taking them."
+      ],
+      "exceptions": [
+        "Some disagreements are empirical or normative; aspects do not settle those by themselves."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "SKILL.md",
+        "references/clusters/rpp.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "Preserve the supported move while limiting automatic application; primary wording remains unverified in this upgrade."
+      },
+      "review_status": "retained_material_reviewed; primary_reverification_unavailable"
+    },
+    {
+      "id": "W-I",
+      "source": "Philosophical Investigations; Remarks on the Philosophy of Psychology I",
+      "locator": "PI §§244, 580; RPP §722; retained glossaries and RPP moves",
+      "attribution": "Wittgenstein’s remarks, translated terminology",
+      "group_id": "Philosophical Investigations",
+      "situation": "Psychological expressions and related concepts in their settings",
+      "audience": "The work’s written or imagined reader; contemporary users only by editorial extension.",
+      "available_information": "Retained repository excerpts and source summaries; no newly inspected full source edition.",
+      "constraints": "Translation, literary framing and incomplete original-text access limit attribution.",
+      "observation": "Avowals and criteria have uses within a life; psychological concepts can be surveyed as a family.",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "The question concerns how such words function."
+      ],
+      "exceptions": [
+        "Outward criteria do not establish that inner experience is unreal."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "SKILL.md",
+        "references/frameworks.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "Preserve the supported move while limiting automatic application; primary wording remains unverified in this upgrade."
+      },
+      "review_status": "retained_material_reviewed; primary_reverification_unavailable"
+    },
+    {
+      "id": "W-M",
+      "source": "Remarks on the Foundations of Mathematics",
+      "locator": "III §§31, 63; I §§118–121, 168; retained RFM moves 1, 3, 5, 6",
+      "attribution": "Wittgenstein’s mathematical remarks, part-specific numbering",
+      "group_id": "Remarks on the Foundations of Mathematics",
+      "situation": "Proof, necessity and standards of correct repetition",
+      "audience": "The work’s written or imagined reader; contemporary users only by editorial extension.",
+      "available_information": "Retained repository excerpts and source summaries; no newly inspected full source edition.",
+      "constraints": "Translation, literary framing and incomplete original-text access limit attribution.",
+      "observation": "Proof can deposit a paradigm; surveyability concerns reproducing steps, and necessity is examined through the application of rules.",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "The issue concerns the role of proof or a warranted analogy to standards."
+      ],
+      "exceptions": [
+        "Invention does not mean caprice or that every application changes the rule."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "SKILL.md",
+        "references/clusters/rfm.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "Preserve the supported move while limiting automatic application; primary wording remains unverified in this upgrade."
+      },
+      "review_status": "retained_material_reviewed; primary_reverification_unavailable"
+    },
+    {
+      "id": "W-C",
+      "source": "Culture and Value; Philosophical Investigations",
+      "locator": "Retained CV moves 1–3; PI §133; no precise CV edition locator retained",
+      "attribution": "Edited selection of notebook remarks, translated; editorial selection distinguished",
+      "group_id": "Culture and Value",
+      "situation": "Reflection on repeated investigation and work on oneself",
+      "audience": "The work’s written or imagined reader; contemporary users only by editorial extension.",
+      "available_information": "Retained repository excerpts and source summaries; no newly inspected full source edition.",
+      "constraints": "Translation, literary framing and incomplete original-text access limit attribution.",
+      "observation": "Short returns to a difficulty, self-questioning and comparison support a reflective cadence.",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "Reflective writing or a requested adaptation of it."
+      ],
+      "exceptions": [
+        "This is not a measured live conversational register or a requirement to repeat needlessly."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "SKILL.md",
+        "references/clusters/cv.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "Preserve the supported move while limiting automatic application; primary wording remains unverified in this upgrade."
+      },
+      "review_status": "retained_material_reviewed; primary_reverification_unavailable"
+    },
+    {
+      "id": "W-V",
+      "source": "Retained English passages and earlier style report",
+      "locator": "voice module: concession, objection, opening and closing examples; PI §211; OC §358",
+      "attribution": "Translated remarks and historical builder measurements, distinguished",
+      "group_id": "Retained English passages and earlier style report",
+      "situation": "Written dialogue with an imagined objection",
+      "audience": "The work’s written or imagined reader; contemporary users only by editorial extension.",
+      "available_information": "Retained repository excerpts and source summaries; no newly inspected full source edition.",
+      "constraints": "Translation, literary framing and incomplete original-text access limit attribution.",
+      "observation": "A concrete case, voiced objection and short turn can coexist with patient qualification.",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "Sustained prose and dialogue adaptations."
+      ],
+      "exceptions": [
+        "No compulsory punctuation, numerical target or ban on useful words."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "SKILL.md",
+        "references/voice.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "Preserve the supported move while limiting automatic application; primary wording remains unverified in this upgrade."
+      },
+      "review_status": "retained_material_reviewed; primary_reverification_unavailable"
+    },
+    {
+      "id": "W-X",
+      "source": "Existing persona mode modules grounded in the five-work collection",
+      "locator": "modes/inspector, generative-colleague, translator; retained usage procedures",
+      "attribution": "Earlier builder’s application, not an attested historical professional practice",
+      "group_id": "Existing persona mode modules grounded in the five-work collection",
+      "situation": "Inspection, open collaboration and re-voicing a supplied text",
+      "audience": "The work’s written or imagined reader; contemporary users only by editorial extension.",
+      "available_information": "Retained repository excerpts and source summaries; no newly inspected full source edition.",
+      "constraints": "Translation, literary framing and incomplete original-text access limit attribution.",
+      "observation": "The three modes organize conceptual clarification and preserve a supplied text’s substantive force.",
+      "claim_type": "new_application",
+      "conditions": [
+        "The actual request calls for one of these operations."
+      ],
+      "exceptions": [
+        "Factual questions can receive factual answers; changing style must not silently change the claim."
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "SKILL.md",
+        "references/modes/translator.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "Preserve the supported move while limiting automatic application; primary wording remains unverified in this upgrade."
+      },
+      "review_status": "retained_material_reviewed; primary_reverification_unavailable"
+    }
+  ]
+}

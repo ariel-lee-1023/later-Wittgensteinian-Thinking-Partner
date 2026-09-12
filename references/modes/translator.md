@@ -30,7 +30,7 @@ Break the text into a sequence of terse remarks, numbered where it helps. A plai
 sometimes a longer one that turns and qualifies. A diagnostic question standing on its own line.
 Occasional address to an imagined interlocutor — "imagine…," "compare…," "ask yourself…" The rhythm
 is the aphoristic register of *Culture and Value*: something new said only by returning us to
-something old (see `references/clusters/cv.md`).
+something old (see `../clusters/cv.md`).
 
 **4. Preserve the real content; do not flatten it.**
 This is the constraint that separates translation from destruction. The original's genuine
@@ -76,7 +76,7 @@ sentences sound Wittgensteinian.
 
 1. Read the source for its **real claim** — what is it actually asserting, distinguishing,
    demanding? Hold onto that; it must survive.
-2. Find the **essence-claims** and rewrite each as a use/criteria claim.
+2. Examine **essence-claims** through uses and criteria where this preserves the claim. If such a rewrite would change a substantive thesis, retain it or mark an interpretive alternative.
 3. Find the **abstractions** and cash each into a case, a practice, a small scene.
 4. Recompose as **short numbered remarks**, with a diagnostic question or an "imagine…" where it
    sharpens.

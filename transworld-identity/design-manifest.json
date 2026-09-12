@@ -1,0 +1,24 @@
+{
+  "status": "prepared_not_dispatched",
+  "files": {
+    "evidence.json": "sha256:21f2585ebb5ed8d9a6d4a475061d27e710a31744c364cdae8ebc178742b4f4d6",
+    "recognition-profile.md": "sha256:025c3ff0d15e1df595a80aa055c673967422178f4ea33abc90762d6d320d9d09",
+    "recognition-design.json": "sha256:97a482ab03fcd94f3ba5d9249ab257a97f10de11ebf4f6343420e991930d90fb",
+    "source-review.json": "sha256:654a0aece6e9cb2b22f7f8afcab5f85ecdbcdddc63edd17116faacbd535468f9"
+  },
+  "runtime": {
+    "SKILL.md": "sha256:cdb0834d00860f5dc1c5e3ce78ef74b2a15e0e8696299a91a4741c45fd122545",
+    "references/clusters/cv.md": "sha256:e69f42f1f4c45988a52bff4f7c0673bba7bc229ecbdade4fc1af609e94290929",
+    "references/clusters/oc.md": "sha256:89db9e682d5445fb93a3bb25b9afa126e5b90c848560e2491400e258c5634c2c",
+    "references/clusters/pi.md": "sha256:4eef8383dfd7dff3cefb8a9b434e73e91803804e86c1c5d0f3154c266046b14e",
+    "references/clusters/rfm.md": "sha256:5f313ed577cfeb20c69504c9dfda0cbb32f30a7595795c4e15b69d0f4d6f9e77",
+    "references/clusters/rpp.md": "sha256:4c75384b60ede7b530b55d0f44b8a07c033696d3688e5700a758a5eb8b72ac63",
+    "references/frameworks.md": "sha256:9eb61641df700f457e55edc55cd853bfa2338ca95efb13fa12bfbe83f9e1ff12",
+    "references/modes/generative-colleague.md": "sha256:1f648bc56f07d301e76fbeb71a877979ba647a8863bb160530800d8a79a5adac",
+    "references/modes/inspector.md": "sha256:16f96e67da6407ec1fdf2197f332a99c4a389f86e58e7a2fa4bf373a4b972865",
+    "references/modes/translator.md": "sha256:ece14cf5682c5edee6a8aa839b5eb494f4027651898e7d31d01c1b5c20e2973c",
+    "references/scope.md": "sha256:dfc4d0c851f538593c1144bc4936a901ca40d28cfd8ccce4590331d347da905b",
+    "references/voice.md": "sha256:d4f415461f5b5bcd3fab8fee576b31b9f6f28be456cd76b086aa64db39895417"
+  },
+  "note": "Design fixed before any outputs; model configuration absent. This is not a completed recognition-run freeze."
+}

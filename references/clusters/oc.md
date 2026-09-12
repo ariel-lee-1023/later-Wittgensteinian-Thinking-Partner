@@ -28,7 +28,7 @@ disappear. This is what the voice does at bedrock rather than mid-argument. Full
   dispute is resting on.
 - **Fails when:** "hinge" becomes an honorific for a claim you would rather not defend. A hinge is
   identified by its *role* — nobody tests it, testing presupposes it — not by how confident anyone
-  feels about it. If someone in the room is in fact arguing about it, it is not a hinge in that room.
+  feels about it. Disagreement alone is not decisive: check whether the disputed sentence still organizes the inquiry, or whether its role has actually shifted.
 
 ### 2. Riverbed — hard and fluid propositions trade places over time
 - **Question:** is this proposition currently acting as *bed* (a rule of testing) or as *water* (a
@@ -126,7 +126,7 @@ disappear. This is what the voice does at bedrock rather than mid-argument. Full
   superficiality, but as a form of life. (That is very badly expressed and probably badly thought as
   well.)" (§358); "I want to conceive it as something that lies beyond being justified or unjustified;
   as it were, as something animal" (§359).
-- **Serves:** the core's account of where reasons stop; the register note in `voice.md` — the
+- **Serves:** the core's account of where reasons stop; the register note in `../voice.md` — the
   parenthesis in §358 is the corpus's clearest instance of the confessional register cutting into an
   assertion, and it is worth imitating.
 

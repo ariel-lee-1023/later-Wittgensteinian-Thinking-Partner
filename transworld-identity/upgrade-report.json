@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "baseline": {
+    "revision": "ff29b9e982fc412da3077516538f6f8d8bff379b",
+    "status": " M SKILL.md\n?? AGENTS.md\n",
+    "runtime_hashes": {
+      "SKILL.md": "sha256:d76b070cdba2784b56de14106cf1c43ef14ecb1fab557b29d9bc7e4368453ce7",
+      "references/clusters/cv.md": "sha256:731c3760036f8708206d543e77d723df9633c386e2964357f423f1fe269150e9",
+      "references/clusters/oc.md": "sha256:58d12b305f175012abdcef6527e83c9667276d675f974374d16daa2b15a260b7",
+      "references/clusters/pi.md": "sha256:4801e512a3a6448113685fce01479f602182ebbd0adf00e8aed6162f52741ead",
+      "references/clusters/rfm.md": "sha256:c31635cd08a059c7706e2d69572503dfbe94ef01b66f2be4e2e61354a6772136",
+      "references/clusters/rpp.md": "sha256:5f5f0964d65a67a4050e448357da4a0c9aff14c75467e199e46abcfb41560aa2",
+      "references/frameworks.md": "sha256:0b5bde18a302858ac2be12fb028abbc73124510fdbd7c5a387779bf6369e0c71",
+      "references/modes/generative-colleague.md": "sha256:cc0bb6b457f3de585721b66e7954c29d43400105f65a1e7b29f669258a421110",
+      "references/modes/inspector.md": "sha256:5fd620d114262d5f0c23515126c2eec057d5e97c44913d753549f9a039b223a3",
+      "references/modes/translator.md": "sha256:9604468264a9682f2d12aba180c26e8f8664318e569b19ccec5e18b1f42b6f4d",
+      "references/voice.md": "sha256:bb6ec96f8b0955fb35ec5236e8db95a2738a76559fe848740cebdfbc6d3f2b47"
+    },
+    "files": {
+      "LICENSE": "5ce6c5f9438d25e4b122b4637ce0c27b8392a5adbe2eb70cb710d4f65bbe4ed1",
+      "CHANGELOG.md": "8c8416ea2c8a2caa325efbef56752c278c48e3ed9fe28b97886418352b1d75f5",
+      "README.md": "cd407d108b59183eb9e8331a6cc63b1787789e334935989112239d1a8468766c",
+      ".gitignore": "e540dee4ba37f058c4c42fe6c73b5b2291fb18b593edac42f0e493cd29d492aa",
+      "SKILL.md": "d76b070cdba2784b56de14106cf1c43ef14ecb1fab557b29d9bc7e4368453ce7",
+      "AGENTS.md": "a6fbeec0b2a65a67385730d5420a29b13c7b280ae68a92f5264112243435e83c",
+      "NOTICE.md": "359c004375dfd97576420e9e48931152e0e5aa5981e0a55a34ad5496c5b98a4b",
+      "fidelity-ledger/episodic.md": "e549fad3a878806b758393ff284a296b7aa9e16ba5627001274b1025cd8cdbbe",
+      "fidelity-ledger/provenance.md": "e5ad5766730d04628a67559a95bd55ea39b5586c10e4a3a24d3520556746f8ce",
+      "references/frameworks.md": "0b5bde18a302858ac2be12fb028abbc73124510fdbd7c5a387779bf6369e0c71",
+      "references/voice.md": "bb6ec96f8b0955fb35ec5236e8db95a2738a76559fe848740cebdfbc6d3f2b47",
+      "references/modes/generative-colleague.md": "cc0bb6b457f3de585721b66e7954c29d43400105f65a1e7b29f669258a421110",
+      "references/modes/translator.md": "9604468264a9682f2d12aba180c26e8f8664318e569b19ccec5e18b1f42b6f4d",
+      "references/modes/inspector.md": "5fd620d114262d5f0c23515126c2eec057d5e97c44913d753549f9a039b223a3",
+      "references/clusters/cv.md": "731c3760036f8708206d543e77d723df9633c386e2964357f423f1fe269150e9",
+      "references/clusters/rpp.md": "5f5f0964d65a67a4050e448357da4a0c9aff14c75467e199e46abcfb41560aa2",
+      "references/clusters/oc.md": "58d12b305f175012abdcef6527e83c9667276d675f974374d16daa2b15a260b7",
+      "references/clusters/rfm.md": "c31635cd08a059c7706e2d69572503dfbe94ef01b66f2be4e2e61354a6772136",
+      "references/clusters/pi.md": "4801e512a3a6448113685fce01479f602182ebbd0adf00e8aed6162f52741ead"
+    }
+  },
+  "claim_decisions": [
+    {
+      "decision": "preserve",
+      "claim": "Three modes, ten conceptual moves, five work-specific modules and the user’s existing per-work loading preference.",
+      "basis": "W-U through W-X"
+    },
+    {
+      "decision": "contextualize",
+      "claim": "Refusals of explanation, definitions, reassurance and verdicts; meaning-as-use, hinges and aspects.",
+      "basis": "W-U through W-I"
+    },
+    {
+      "decision": "correct_or_remove",
+      "claim": "Every rule application must create a fresh decision; a dispute alone disqualifies hinge status.",
+      "basis": "W-R and W-H"
+    },
+    {
+      "decision": "correct_or_remove",
+      "claim": "RFM proof-paradigm citation lacks Part III; surveyability citation points to the wrong range.",
+      "basis": "W-M; III §31 and III §63 in retained RFM module"
+    },
+    {
+      "decision": "correct_or_remove",
+      "claim": "Fixed prose quotas, automatic bans and translator instructions that change a substantive thesis.",
+      "basis": "W-V and W-X"
+    },
+    {
+      "decision": "unresolved",
+      "claim": "Exact edition wording, CV locators and historical metrics.",
+      "basis": "Primary source editions and raw historical evaluations unavailable in this task"
+    }
+  ],
+  "historical_results": [
+    {
+      "record": "history/pre-20260912/provenance.md#2.0 projection gate",
+      "applicability": "historical_evidence_useful_to_unchanged_modules",
+      "reason": "Reported 0.9 home-turf / 0.65 applied-generative; not current recognition."
+    },
+    {
+      "record": "history/pre-20260912/provenance.md#2.0 cost gate",
+      "applicability": "superseded_for_changed_inputs_protocol",
+      "reason": "Eight mandatory refusals contextualized."
+    },
+    {
+      "record": "history/pre-20260912/provenance.md#2.0 Stage 5 verification and JSON summary",
+      "applicability": "superseded_for_changed_inputs_protocol",
+      "reason": "Original inputs/protocol differ; retained exactly."
+    },
+    {
+      "record": "history/pre-20260912/provenance.md#2.1 corpus measurement and citation corrections",
+      "applicability": "historical_evidence_useful_to_unchanged_modules",
+      "reason": "Reports retained with original limitations; not independently recomputed."
+    },
+    {
+      "record": "history/pre-20260912/provenance.md#2.1 projection re-check",
+      "applicability": "historical_evidence_useful_to_unchanged_modules",
+      "reason": "Previously asserted unchanged 6/6 scope retained; raw tests unavailable."
+    },
+    {
+      "record": "history/pre-20260912/provenance.md#2.1 style and re-check assertions",
+      "applicability": "superseded_for_changed_inputs_protocol",
+      "reason": "Current voice rejects numerical generation quotas; original measurements stay historical."
+    }
+  ],
+  "relocation": {
+    "fidelity-ledger/provenance.md": "transworld-identity/history/pre-20260912/provenance.md",
+    "fidelity-ledger/episodic.md": "transworld-identity/episodic.md"
+  },
+  "local_edits": "Existing AGENTS.md preserved byte-for-byte and included as the package workspace guidance. The pre-existing Wittgenstein core loading preference is preserved with concrete working links.",
+  "changed_modules": [
+    "SKILL.md",
+    "references/clusters/oc.md",
+    "references/frameworks.md",
+    "references/modes/generative-colleague.md",
+    "references/modes/inspector.md",
+    "references/modes/translator.md",
+    "references/scope.md",
+    "references/voice.md"
+  ],
+  "added_evidence": "Structured curation of retained excerpts; no newly acquired primary passages.",
+  "current_runtime_hashes": {
+    "SKILL.md": "sha256:5e1bef6df821ac12f6f435ce250cd641f026de9ccf8b1e0d2bc218cbfcc4179f",
+    "references/clusters/cv.md": "sha256:731c3760036f8708206d543e77d723df9633c386e2964357f423f1fe269150e9",
+    "references/clusters/oc.md": "sha256:b29bc4dc7cde89eb048a5b11c1946671365d4a7579aa5188ed11844add1f5d0c",
+    "references/clusters/pi.md": "sha256:4801e512a3a6448113685fce01479f602182ebbd0adf00e8aed6162f52741ead",
+    "references/clusters/rfm.md": "sha256:c31635cd08a059c7706e2d69572503dfbe94ef01b66f2be4e2e61354a6772136",
+    "references/clusters/rpp.md": "sha256:5f5f0964d65a67a4050e448357da4a0c9aff14c75467e199e46abcfb41560aa2",
+    "references/frameworks.md": "sha256:5c93163e3ac24f7c2cedb057243e129c75c31da2b4d0d6dc59284bab36f14bbe",
+    "references/modes/generative-colleague.md": "sha256:f36ddb56452678b2bcbd9014c1bcfde985b09faa66b4bddf72a13778c8d561d6",
+    "references/modes/inspector.md": "sha256:86906bc9973fc4401f86cd718275a149f3234374920960751951399964c9d8b9",
+    "references/modes/translator.md": "sha256:499653e62843734e5459059b3817f1103b98d386f6e461afa2f6f50bff13766c",
+    "references/scope.md": "sha256:bab0e19f91314b0bc599cdcdd4b9ab79bbd88a3e27ab32fcd446a3750dcca26e",
+    "references/voice.md": "sha256:72dd85ff64bbb9829c41f0350c6f1274e849f1290d12bb3aae6383566e8b07b3"
+  }
+}
