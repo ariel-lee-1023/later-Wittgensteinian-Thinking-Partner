@@ -1,59 +1,93 @@
-# Later-Wittgensteinian thinking partner
+# A later-Wittgensteinian thinking partner
 
-Three ways of working: inspect a finished claim, think alongside an unresolved question, or re-voice a text while preserving its force. The method examines use, criteria, rules, pictures, aspects and what stands fast. Where facts and agreed criteria settle a question, it gives the answer.
+Imagine a meeting where everyone agrees on what happened. The argument is about
+whether it counts as following the rule. Someone reaches for a more exact definition; someone
+else repeats the rule more emphatically. This thinking partner returns to the cases:
+how was the rule taught, what counted as a mistake, and what is different this time?
 
-**Version 3.0.0 — Candidate (2026-09-12).** This release adopts the current incremental
-persona-distiller workflow. Package validation, source review and recognition are
-separate gates: see [validation](transworld-identity/validation.json). Primary editions
-were not reverified and bounded machine recognition was **not run (0 calls)** because
-no configured model endpoint was available. Historical scores remain historical;
-this release does not claim Standard accepted.
+Drawing on Wittgenstein's later writings, it works patiently with the words doing
+the work. A small example may reveal more than another definition. An objection may
+need to be heard in full before the question changes. These are contemporary
+applications of his written methods, not a record of how he handled a modern team
+dispute—and some disputes really do need another fact, not another way of looking.
 
-## Use and installation
+## Start where the conversation got stuck
 
-The runtime consists of [SKILL.md](SKILL.md), [scope](references/scope.md), and the
-relevant files under references/. Load scope with the core and voice before sustained
-prose. The core supplies working links and their loading conditions. Explicit user
-requests govern task, language and format; the voice does not override them.
+**A suggested first prompt:**
+
+> Our team agrees on what happened but disagrees whether this is a security bug or
+> a design flaw. Help us examine what would count as each, which facts still need
+> checking, and whether the distinction changes what we should do.
+
+Be ready to supply a case: what someone did, what was expected, and what happened
+instead. The phrase *security bug* might be assigning responsibility, describing a
+broken guarantee, or deciding which work gets priority. Showing those uses can make
+the disagreement clearer without making it disappear.
+
+And if the relevant rule is already agreed and the evidence settles its application,
+there is no virtue in asking forever. The partner should be able to give the answer.
+You can ask it to explain a distinction, consider a counterexample, or stop reframing
+a question that no longer needs it.
+
+## Three ways to work together
+
+| Bring this | The work it invites |
+|---|---|
+| A finished claim, slogan or argument | **Inspect it.** Put the sentence in a situation, separate its claims, and ask what would count as understanding or correcting it. A metaphor may be useful without being a factual report. |
+| An unresolved problem | **Think alongside it.** Distinguish missing evidence from a disagreement about criteria. Compare examples, test another way of seeing the case, and locate what can actually be settled or decided. |
+| A passage to rewrite | **Re-voice it.** Bring abstractions into concrete practices and use short remarks where they help. Preserve the original claim and its force; changing the idiom is not permission to substitute another thought. |
+
+You might bring one sentence from a paper that sounds important but is hard to use,
+or a paragraph you keep rewriting because each version seems to say something
+slightly different. The conversation need not begin in confrontation. Sometimes the
+work is simply to put two uses beside each other and notice the difference.
+
+There is no required vocabulary. The [core](SKILL.md) and
+[reference glossary](references/frameworks.md) are available when a named distinction
+helps, but the name is not meant to do the thinking in your place.
+
+## Use the partner
 
 ```bash
 git clone https://github.com/ariel-lee-1023/later-Wittgensteinian-Thinking-Partner.git later-wittgensteinian-thinking-partner
 ```
 
-For a skill loader, place or link the cloned root under its skills directory using
-the name `later-wittgensteinian-thinking-partner`. For another host, provide the core and scope, then the requested
-references. There is one canonical runtime; the repository's discovery link
-`.agents/skills/later-wittgensteinian-thinking-partner` points back to the root. [AGENTS.md](AGENTS.md) preserves
-this workspace's existing conversational preferences and maintenance exception.
+With an agent that reads [AGENTS.md](AGENTS.md), open the cloned folder as the working
+project. Its instructions activate the local perspective and follow your language
+and requested format.
 
-## Scope
+For a skill loader, place or link the cloned root in its skills directory under
+`later-wittgensteinian-thinking-partner`. Keep that lowercase name even though the
+repository name uses capitals. The included
+`.agents/skills/later-wittgensteinian-thinking-partner` points to the same root.
 
-The five later-work collections are Philosophical Investigations, On Certainty, Remarks on the Philosophy of Psychology I, Remarks on the Foundations of Mathematics, and Culture and Value. This is not an early-Tractatus voice. Modern professional collaboration and text transformation are editorial extensions of the written methods, not documented historical behavior.
+For a chat without file access, supply [SKILL.md](SKILL.md) and
+[scope](references/scope.md), then the relevant reference files linked from the core.
+Include [voice](references/voice.md) before sustained writing. The assessment files
+are for inspecting the package, not conducting the conversation. Direct factual
+questions and requests to leave the perspective remain welcome.
 
-The retained modules contain translated excerpts and source summaries. The original
-editions and old raw evaluation outputs were not supplied for this upgrade. Exact
-quotation and contested attribution require the relevant edition. Historical style
-measurements reflect translation and OCR and are descriptive, not output quotas.
+## The writings behind it
 
-## Layout and renovation record
+The perspective draws on *Philosophical Investigations*, *On Certainty*, *Remarks on
+the Philosophy of Psychology I*, *Remarks on the Foundations of Mathematics*, and
+*Culture and Value*. It follows later investigations of use, rules, certainty,
+psychological expressions and the work of philosophy; it does not combine them into
+an early-*Tractatus* voice or a complete system.
 
-- Root SKILL.md and references/: canonical runtime, including scope, frameworks and voice.
-- AGENTS.md: existing workspace instructions, preserved without changing their preferences.
-- .agents/skills/: relative discovery link to the canonical root.
-- transworld-identity/: evidence, source review, prepared recognition profile/cases,
-  current validation and lossless migration records; never loaded during ordinary runtime.
-- transworld-identity/history/pre-20260912/: original provenance and pre-upgrade core.
+The material supports written remarks, concrete comparisons and imagined objections.
+Professional collaboration and text transformation extend those methods; they do not
+reproduce documented historical conversations. English phrasing is mediated by
+translation, and some earlier measurements were affected by OCR. Exact quotations
+or contested attributions need the relevant edition. The [scope notes](references/scope.md)
+and [source notices](NOTICE.md) explain these limits.
 
-The previous fidelity-ledger directory was migrated without discarding its evidence.
-[Upgrade report](transworld-identity/upgrade-report.json) records claim decisions,
-changed files, baseline hashes and applicability of each old result family.
-[Preserved records](transworld-identity/preserved-records.json) verifies the old evidence
-bytes. The upgrade keeps supported methods and voice while making refusals and judgments
-conditional, correcting paths and removing numerical prose requirements.
+**Version 3.0.0 — Candidate (2026-09-12).** Machine recognition has not been run, so
+this version has not established how recognizably it sustains the perspective in the
+planned comparisons. The renovation used retained excerpts and summaries; primary
+editions were not rechecked. The [assessment record](transworld-identity/validation.json)
+separates the passed package checks from the incomplete source and recognition work.
+The [renovation record](transworld-identity/provenance.md) preserves the editorial
+choices and earlier evidence; historical results retain their original scope.
 
-## Sources and license
-
-The five collections and their retained locators are inventoried in the historical provenance and evidence.json. Source modules distinguish located quotations from interpretive applications. Existing translation notices are preserved in NOTICE.md.
-
-[MIT](LICENSE) covers original repository material, not third-party source books or
-translations. No full source books, credentials or scratch databases are published.
+[MIT](LICENSE) covers the original skill material, not the source books or translations.
