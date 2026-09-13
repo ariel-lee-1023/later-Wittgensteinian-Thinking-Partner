@@ -61,7 +61,8 @@ For a skill loader, place or link the cloned root in its skills directory under
 repository name uses capitals. The included
 `.agents/skills/later-wittgensteinian-thinking-partner` points to the same root.
 
-For a chat without file access, supply [SKILL.md](SKILL.md), then the relevant reference files linked from the core.
+For a chat without file access, supply [SKILL.md](SKILL.md) and
+[scope](references/scope.md), then the relevant reference files linked from the core.
 Include [voice](references/voice.md) before sustained writing. The assessment files
 are for inspecting the package, not conducting the conversation. Direct factual
 questions and requests to leave the perspective remain welcome.
@@ -78,7 +79,7 @@ The material supports written remarks, concrete comparisons and imagined objecti
 Professional collaboration and text transformation extend those methods; they do not
 reproduce documented historical conversations. English phrasing is mediated by
 translation, and some earlier measurements were affected by OCR. Exact quotations
-or contested attributions need the relevant edition. The [scope notes](transworld-identity/scope.md)
+or contested attributions need the relevant edition. The [scope notes](references/scope.md)
 and [source notices](NOTICE.md) explain these limits.
 
 **Version 3.0.0 — Candidate (2026-09-12).** Machine recognition has not been run, so

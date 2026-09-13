@@ -1,0 +1,537 @@
+{
+  "schema_version": 1,
+  "structure_revision": 2,
+  "date": "2026-09-13",
+  "baseline": {
+    "commit": "c6d0e9f3e2f96ca78f93f3dfd3bda8cd02be930a",
+    "branch": "main",
+    "working_tree": "clean"
+  },
+  "tool_revision": "15cf8074761c575e54a49d2dce7046f7ba458f13",
+  "contract": "Update internal structure and push the respective changes; no new extraction or recognition.",
+  "source_boundary": {
+    "material": "Existing scope, core, runtime modules and retained evidence only",
+    "new_sources": 0,
+    "ocr_pages": 0
+  },
+  "evaluation_calls": 0,
+  "changed_modules": [
+    "README.md",
+    "SKILL.md",
+    "AGENTS.md",
+    "references/frameworks.md",
+    "references/voice.md",
+    "references/scope.md",
+    "transworld-identity/validation.json"
+  ],
+  "claim_decisions": [
+    {
+      "decision": "preserve",
+      "reason": "Retain all supported persona methods, literary voices, topic modules and historical observations."
+    },
+    {
+      "decision": "contextualize",
+      "reason": "Reconstruction coverage is maintainer data; practical conditions stay with core, methods and voice."
+    },
+    {
+      "decision": "correct/remove",
+      "reason": "Remove mandatory runtime scope loading and resolve its incoming links."
+    },
+    {
+      "decision": "unresolved",
+      "reason": "Do not upgrade historical or missing source/recognition results to a current behavioral pass."
+    }
+  ],
+  "readme_review": {
+    "introduction": "preserve: distinctive opening, example, first action, language and narrator unchanged",
+    "installation": "qualify: remove reconstruction scope from conversational inputs",
+    "status": "preserve Candidate; clarify that old checks are not revalidated for changed runtime",
+    "particularity": "Preserved concrete spring explanation, commitment-versus-postponement, or disputed-rule encounter, respectively.",
+    "encounter": "Existing example shows the method with a real question.",
+    "entry": "Existing first prompt and repository installation remain intact.",
+    "honesty": "Examples remain suggested prompts; source limitations and Candidate status stay visible."
+  },
+  "assessment_applicability": [
+    {
+      "claim": "Tools and uses differ; the use reminder is limited to a large class of cases.",
+      "previous_outcome": "inconclusive",
+      "dependencies": {
+        "SKILL.md": "sha256:cdb0834d00860f5dc1c5e3ce78ef74b2a15e0e8696299a91a4741c45fd122545",
+        "references/clusters/pi.md": "sha256:4eef8383dfd7dff3cefb8a9b434e73e91803804e86c1c5d0f3154c266046b14e"
+      },
+      "applicability": "historical_support_only_changed_runtime_inputs"
+    },
+    {
+      "claim": "The movement returns words to use and arranges cases as objects of comparison.",
+      "previous_outcome": "inconclusive",
+      "dependencies": {
+        "SKILL.md": "sha256:cdb0834d00860f5dc1c5e3ce78ef74b2a15e0e8696299a91a4741c45fd122545",
+        "references/clusters/pi.md": "sha256:4eef8383dfd7dff3cefb8a9b434e73e91803804e86c1c5d0f3154c266046b14e"
+      },
+      "applicability": "historical_support_only_changed_runtime_inputs"
+    },
+    {
+      "claim": "Practice and training matter; understanding a rule need not consist in another interpretation.",
+      "previous_outcome": "inconclusive",
+      "dependencies": {
+        "SKILL.md": "sha256:cdb0834d00860f5dc1c5e3ce78ef74b2a15e0e8696299a91a4741c45fd122545",
+        "references/clusters/pi.md": "sha256:4eef8383dfd7dff3cefb8a9b434e73e91803804e86c1c5d0f3154c266046b14e"
+      },
+      "applicability": "historical_support_only_changed_runtime_inputs"
+    },
+    {
+      "claim": "Some propositions function as conditions of testing; their roles can shift.",
+      "previous_outcome": "inconclusive",
+      "dependencies": {
+        "SKILL.md": "sha256:cdb0834d00860f5dc1c5e3ce78ef74b2a15e0e8696299a91a4741c45fd122545",
+        "references/clusters/oc.md": "sha256:89db9e682d5445fb93a3bb25b9afa126e5b90c848560e2491400e258c5634c2c"
+      },
+      "applicability": "historical_support_only_changed_runtime_inputs"
+    },
+    {
+      "claim": "Reasons can end in acting without supplying an ultimate theoretical foundation.",
+      "previous_outcome": "inconclusive",
+      "dependencies": {
+        "SKILL.md": "sha256:cdb0834d00860f5dc1c5e3ce78ef74b2a15e0e8696299a91a4741c45fd122545",
+        "references/clusters/oc.md": "sha256:89db9e682d5445fb93a3bb25b9afa126e5b90c848560e2491400e258c5634c2c"
+      },
+      "applicability": "historical_support_only_changed_runtime_inputs"
+    },
+    {
+      "claim": "Dawning and continued seeing differ; aspects are not merely free opinions.",
+      "previous_outcome": "inconclusive",
+      "dependencies": {
+        "SKILL.md": "sha256:cdb0834d00860f5dc1c5e3ce78ef74b2a15e0e8696299a91a4741c45fd122545",
+        "references/clusters/rpp.md": "sha256:4c75384b60ede7b530b55d0f44b8a07c033696d3688e5700a758a5eb8b72ac63"
+      },
+      "applicability": "historical_support_only_changed_runtime_inputs"
+    },
+    {
+      "claim": "Avowals and criteria have uses within a life; psychological concepts can be surveyed as a family.",
+      "previous_outcome": "inconclusive",
+      "dependencies": {
+        "SKILL.md": "sha256:cdb0834d00860f5dc1c5e3ce78ef74b2a15e0e8696299a91a4741c45fd122545",
+        "references/frameworks.md": "sha256:9eb61641df700f457e55edc55cd853bfa2338ca95efb13fa12bfbe83f9e1ff12"
+      },
+      "applicability": "historical_support_only_changed_runtime_inputs"
+    },
+    {
+      "claim": "Proof can deposit a paradigm; surveyability concerns reproducing steps, and necessity is examined through the application of rules.",
+      "previous_outcome": "inconclusive",
+      "dependencies": {
+        "SKILL.md": "sha256:cdb0834d00860f5dc1c5e3ce78ef74b2a15e0e8696299a91a4741c45fd122545",
+        "references/clusters/rfm.md": "sha256:5f313ed577cfeb20c69504c9dfda0cbb32f30a7595795c4e15b69d0f4d6f9e77"
+      },
+      "applicability": "historical_support_only_changed_runtime_inputs"
+    },
+    {
+      "claim": "Short returns to a difficulty, self-questioning and comparison support a reflective cadence.",
+      "previous_outcome": "inconclusive",
+      "dependencies": {
+        "SKILL.md": "sha256:cdb0834d00860f5dc1c5e3ce78ef74b2a15e0e8696299a91a4741c45fd122545",
+        "references/clusters/cv.md": "sha256:e69f42f1f4c45988a52bff4f7c0673bba7bc229ecbdade4fc1af609e94290929"
+      },
+      "applicability": "historical_support_only_changed_runtime_inputs"
+    },
+    {
+      "claim": "A concrete case, voiced objection and short turn can coexist with patient qualification.",
+      "previous_outcome": "inconclusive",
+      "dependencies": {
+        "SKILL.md": "sha256:cdb0834d00860f5dc1c5e3ce78ef74b2a15e0e8696299a91a4741c45fd122545",
+        "references/voice.md": "sha256:d4f415461f5b5bcd3fab8fee576b31b9f6f28be456cd76b086aa64db39895417"
+      },
+      "applicability": "historical_support_only_changed_runtime_inputs"
+    },
+    {
+      "claim": "The three modes organize conceptual clarification and preserve a supplied text’s substantive force.",
+      "previous_outcome": "inconclusive",
+      "dependencies": {
+        "SKILL.md": "sha256:cdb0834d00860f5dc1c5e3ce78ef74b2a15e0e8696299a91a4741c45fd122545",
+        "references/modes/translator.md": "sha256:ece14cf5682c5edee6a8aa839b5eb494f4027651898e7d31d01c1b5c20e2973c"
+      },
+      "applicability": "historical_support_only_changed_runtime_inputs"
+    },
+    {
+      "claim": "Task and format control, factual honesty, response to corrections and avoiding forged memories.",
+      "previous_outcome": "passed",
+      "dependencies": {
+        "SKILL.md": "sha256:cdb0834d00860f5dc1c5e3ce78ef74b2a15e0e8696299a91a4741c45fd122545",
+        "references/scope.md": "sha256:dfc4d0c851f538593c1144bc4936a901ca40d28cfd8ccce4590331d347da905b"
+      },
+      "applicability": "historical_support_only_changed_runtime_inputs"
+    }
+  ],
+  "preserved_files": [
+    {
+      "original_path": "LICENSE",
+      "sha256": "sha256:5ce6c5f9438d25e4b122b4637ce0c27b8392a5adbe2eb70cb710d4f65bbe4ed1",
+      "preserved_path": "LICENSE",
+      "applicability": "applicable_unchanged"
+    },
+    {
+      "original_path": "CHANGELOG.md",
+      "sha256": "sha256:be526e4be080c801d3966607803ca68a3868e45b37f507b86d9d096f8684a1a0",
+      "preserved_path": "CHANGELOG.md",
+      "applicability": "applicable_unchanged"
+    },
+    {
+      "original_path": "README.md",
+      "sha256": "sha256:c3e2225f2c8dc0137d7ba2b65b68dab136c26ad418adf8b4c671423e052902d2",
+      "preserved_path": "transworld-identity/migrations/scope-83805b4f86f58c7816f8b014a4990fee13f3b7ab065451bdf5d108d2feb7ea63/originals/README.md",
+      "applicability": "historical_original; changed current file is not a hash match"
+    },
+    {
+      "original_path": ".gitignore",
+      "sha256": "sha256:392962ca3d6bf4ec11504553064d49cbf7a758db7f9b539832470ca7b2ecfeb0",
+      "preserved_path": ".gitignore",
+      "applicability": "applicable_unchanged"
+    },
+    {
+      "original_path": "SKILL.md",
+      "sha256": "sha256:5e1bef6df821ac12f6f435ce250cd641f026de9ccf8b1e0d2bc218cbfcc4179f",
+      "preserved_path": "transworld-identity/migrations/scope-83805b4f86f58c7816f8b014a4990fee13f3b7ab065451bdf5d108d2feb7ea63/originals/SKILL.md",
+      "applicability": "historical_original; changed current file is not a hash match"
+    },
+    {
+      "original_path": "AGENTS.md",
+      "sha256": "sha256:a6fbeec0b2a65a67385730d5420a29b13c7b280ae68a92f5264112243435e83c",
+      "preserved_path": "transworld-identity/migrations/scope-83805b4f86f58c7816f8b014a4990fee13f3b7ab065451bdf5d108d2feb7ea63/originals/AGENTS.md",
+      "applicability": "historical_original; changed current file is not a hash match"
+    },
+    {
+      "original_path": "NOTICE.md",
+      "sha256": "sha256:359c004375dfd97576420e9e48931152e0e5aa5981e0a55a34ad5496c5b98a4b",
+      "preserved_path": "NOTICE.md",
+      "applicability": "applicable_unchanged"
+    },
+    {
+      "original_path": "references/frameworks.md",
+      "sha256": "sha256:5c93163e3ac24f7c2cedb057243e129c75c31da2b4d0d6dc59284bab36f14bbe",
+      "preserved_path": "transworld-identity/migrations/scope-83805b4f86f58c7816f8b014a4990fee13f3b7ab065451bdf5d108d2feb7ea63/originals/references/frameworks.md",
+      "applicability": "historical_original; changed current file is not a hash match"
+    },
+    {
+      "original_path": "references/voice.md",
+      "sha256": "sha256:72dd85ff64bbb9829c41f0350c6f1274e849f1290d12bb3aae6383566e8b07b3",
+      "preserved_path": "transworld-identity/migrations/scope-83805b4f86f58c7816f8b014a4990fee13f3b7ab065451bdf5d108d2feb7ea63/originals/references/voice.md",
+      "applicability": "historical_original; changed current file is not a hash match"
+    },
+    {
+      "original_path": "references/scope.md",
+      "sha256": "sha256:bab0e19f91314b0bc599cdcdd4b9ab79bbd88a3e27ab32fcd446a3750dcca26e",
+      "preserved_path": "transworld-identity/migrations/scope-83805b4f86f58c7816f8b014a4990fee13f3b7ab065451bdf5d108d2feb7ea63/originals/references/scope.md",
+      "applicability": "historical_original; changed current file is not a hash match"
+    },
+    {
+      "original_path": "transworld-identity/episodic.md",
+      "sha256": "sha256:e549fad3a878806b758393ff284a296b7aa9e16ba5627001274b1025cd8cdbbe",
+      "preserved_path": "transworld-identity/episodic.md",
+      "applicability": "applicable_unchanged"
+    },
+    {
+      "original_path": "transworld-identity/evidence.json",
+      "sha256": "sha256:21f2585ebb5ed8d9a6d4a475061d27e710a31744c364cdae8ebc178742b4f4d6",
+      "preserved_path": "transworld-identity/evidence.json",
+      "applicability": "applicable_unchanged"
+    },
+    {
+      "original_path": "transworld-identity/recognition-design.json",
+      "sha256": "sha256:97a482ab03fcd94f3ba5d9249ab257a97f10de11ebf4f6343420e991930d90fb",
+      "preserved_path": "transworld-identity/recognition-design.json",
+      "applicability": "applicable_unchanged"
+    },
+    {
+      "original_path": "transworld-identity/preserved-records.json",
+      "sha256": "sha256:b0ca2d0b8cdb4670a396cfdc1e81568ee4e32d1d34b691caed00d34f9e1c5ec7",
+      "preserved_path": "transworld-identity/preserved-records.json",
+      "applicability": "applicable_unchanged"
+    },
+    {
+      "original_path": "transworld-identity/package-validation.json",
+      "sha256": "sha256:b985624c293b67b55b76550670ad43e363061d09ae154d8e85722971e513dab1",
+      "preserved_path": "transworld-identity/package-validation.json",
+      "applicability": "applicable_unchanged"
+    },
+    {
+      "original_path": "transworld-identity/upgrade-report.json",
+      "sha256": "sha256:58bf72b359f74ace2fb216c3925a1128765434c0621ae994dc09155b51d9b2c7",
+      "preserved_path": "transworld-identity/upgrade-report.json",
+      "applicability": "applicable_unchanged"
+    },
+    {
+      "original_path": "transworld-identity/provenance.md",
+      "sha256": "sha256:d0fb83e22e731524ad30e1f33293897427937b075f16e47ce6b2789c8e1d2fbd",
+      "preserved_path": "transworld-identity/provenance.md",
+      "applicability": "applicable_unchanged"
+    },
+    {
+      "original_path": "transworld-identity/design-manifest.json",
+      "sha256": "sha256:364f5f041fbc88dd12e6371a9b90b6cd58114b9e4bc7a3b1127cb89512413f0b",
+      "preserved_path": "transworld-identity/design-manifest.json",
+      "applicability": "applicable_unchanged"
+    },
+    {
+      "original_path": "transworld-identity/recognition-profile.md",
+      "sha256": "sha256:025c3ff0d15e1df595a80aa055c673967422178f4ea33abc90762d6d320d9d09",
+      "preserved_path": "transworld-identity/recognition-profile.md",
+      "applicability": "applicable_unchanged"
+    },
+    {
+      "original_path": "transworld-identity/source-review.json",
+      "sha256": "sha256:654a0aece6e9cb2b22f7f8afcab5f85ecdbcdddc63edd17116faacbd535468f9",
+      "preserved_path": "transworld-identity/source-review.json",
+      "applicability": "applicable_unchanged"
+    },
+    {
+      "original_path": "transworld-identity/validation.json",
+      "sha256": "sha256:4287d2ae412ac4d2e0eb3d882d6829ba0d3dfca100ea7fbff8a20ef130172d1e",
+      "preserved_path": "transworld-identity/history/structure-revision-2/transworld-identity/validation.json",
+      "applicability": "historical_original; changed current file is not a hash match"
+    },
+    {
+      "original_path": "transworld-identity/integrity-checks.json",
+      "sha256": "sha256:510c5824b84083528983d8a3530eb631e4fdb1f3a3f289a41ec32a54a102d416",
+      "preserved_path": "transworld-identity/integrity-checks.json",
+      "applicability": "applicable_unchanged"
+    },
+    {
+      "original_path": "transworld-identity/migrations/1789220186044437000.json",
+      "sha256": "sha256:1d324aa3eb3420a1604564a362fbdc0531958739a7e18a6a618700cb6c830967",
+      "preserved_path": "transworld-identity/migrations/1789220186044437000.json",
+      "applicability": "applicable_unchanged"
+    },
+    {
+      "original_path": "transworld-identity/history/pre-20260912/provenance.md",
+      "sha256": "sha256:e5ad5766730d04628a67559a95bd55ea39b5586c10e4a3a24d3520556746f8ce",
+      "preserved_path": "transworld-identity/history/pre-20260912/provenance.md",
+      "applicability": "applicable_unchanged"
+    },
+    {
+      "original_path": "transworld-identity/history/pre-20260912/SKILL.md",
+      "sha256": "sha256:d76b070cdba2784b56de14106cf1c43ef14ecb1fab557b29d9bc7e4368453ce7",
+      "preserved_path": "transworld-identity/history/pre-20260912/SKILL.md",
+      "applicability": "applicable_unchanged"
+    },
+    {
+      "original_path": "references/modes/generative-colleague.md",
+      "sha256": "sha256:f36ddb56452678b2bcbd9014c1bcfde985b09faa66b4bddf72a13778c8d561d6",
+      "preserved_path": "references/modes/generative-colleague.md",
+      "applicability": "applicable_unchanged"
+    },
+    {
+      "original_path": "references/modes/translator.md",
+      "sha256": "sha256:499653e62843734e5459059b3817f1103b98d386f6e461afa2f6f50bff13766c",
+      "preserved_path": "references/modes/translator.md",
+      "applicability": "applicable_unchanged"
+    },
+    {
+      "original_path": "references/modes/inspector.md",
+      "sha256": "sha256:86906bc9973fc4401f86cd718275a149f3234374920960751951399964c9d8b9",
+      "preserved_path": "references/modes/inspector.md",
+      "applicability": "applicable_unchanged"
+    },
+    {
+      "original_path": "references/clusters/cv.md",
+      "sha256": "sha256:731c3760036f8708206d543e77d723df9633c386e2964357f423f1fe269150e9",
+      "preserved_path": "references/clusters/cv.md",
+      "applicability": "applicable_unchanged"
+    },
+    {
+      "original_path": "references/clusters/rpp.md",
+      "sha256": "sha256:5f5f0964d65a67a4050e448357da4a0c9aff14c75467e199e46abcfb41560aa2",
+      "preserved_path": "references/clusters/rpp.md",
+      "applicability": "applicable_unchanged"
+    },
+    {
+      "original_path": "references/clusters/oc.md",
+      "sha256": "sha256:b29bc4dc7cde89eb048a5b11c1946671365d4a7579aa5188ed11844add1f5d0c",
+      "preserved_path": "references/clusters/oc.md",
+      "applicability": "applicable_unchanged"
+    },
+    {
+      "original_path": "references/clusters/rfm.md",
+      "sha256": "sha256:c31635cd08a059c7706e2d69572503dfbe94ef01b66f2be4e2e61354a6772136",
+      "preserved_path": "references/clusters/rfm.md",
+      "applicability": "applicable_unchanged"
+    },
+    {
+      "original_path": "references/clusters/pi.md",
+      "sha256": "sha256:4801e512a3a6448113685fce01479f602182ebbd0adf00e8aed6162f52741ead",
+      "preserved_path": "references/clusters/pi.md",
+      "applicability": "applicable_unchanged"
+    }
+  ],
+  "runtime_hash": "sha256:712fcc4f11814902a582b4cf59492245e205eb7b1edf133e7cba5b04b21b029c",
+  "module_hashes": {
+    "SKILL.md": "sha256:35011b51df7bcff1f65ef0c1a7dc1c1cb89272776328507890c3959ff6d15070",
+    "references/clusters/cv.md": "sha256:e69f42f1f4c45988a52bff4f7c0673bba7bc229ecbdade4fc1af609e94290929",
+    "references/clusters/oc.md": "sha256:89db9e682d5445fb93a3bb25b9afa126e5b90c848560e2491400e258c5634c2c",
+    "references/clusters/pi.md": "sha256:4eef8383dfd7dff3cefb8a9b434e73e91803804e86c1c5d0f3154c266046b14e",
+    "references/clusters/rfm.md": "sha256:5f313ed577cfeb20c69504c9dfda0cbb32f30a7595795c4e15b69d0f4d6f9e77",
+    "references/clusters/rpp.md": "sha256:4c75384b60ede7b530b55d0f44b8a07c033696d3688e5700a758a5eb8b72ac63",
+    "references/frameworks.md": "sha256:caed87b4b335f0fc674663b09cce26d8b9f94fff8dab257477ed8710d536cd13",
+    "references/modes/generative-colleague.md": "sha256:1f648bc56f07d301e76fbeb71a877979ba647a8863bb160530800d8a79a5adac",
+    "references/modes/inspector.md": "sha256:16f96e67da6407ec1fdf2197f332a99c4a389f86e58e7a2fa4bf373a4b972865",
+    "references/modes/translator.md": "sha256:ece14cf5682c5edee6a8aa839b5eb494f4027651898e7d31d01c1b5c20e2973c",
+    "references/voice.md": "sha256:bf2c73fbc816ef7a008b48fd9282db0558891945a460352c7c31df584ebf8013"
+  },
+  "package_checks": {
+    "structure_revision": 2,
+    "strict": false,
+    "checks": [
+      {
+        "check": "S9",
+        "level": "error",
+        "ok": true,
+        "detail": "reconstruction scope and host boundaries present; editorial responsibilities require source review",
+        "effective_level": "error"
+      },
+      {
+        "check": "S1",
+        "level": "error",
+        "ok": true,
+        "detail": "one discoverable skill exists under .agents/skills/",
+        "effective_level": "error"
+      },
+      {
+        "check": "S2",
+        "level": "error",
+        "ok": true,
+        "detail": "SKILL.md exists inside the discovered skill directory",
+        "effective_level": "error"
+      },
+      {
+        "check": "S3",
+        "level": "error",
+        "ok": true,
+        "detail": "references/, voice.md, and frameworks.md present",
+        "effective_level": "error"
+      },
+      {
+        "check": "S4",
+        "level": "error",
+        "ok": true,
+        "detail": "transworld-identity/provenance.md present outside .agents/",
+        "effective_level": "error"
+      },
+      {
+        "check": "S4",
+        "level": "warn",
+        "ok": true,
+        "detail": "transworld-identity/episodic.md present",
+        "effective_level": "warn"
+      },
+      {
+        "check": "S5",
+        "level": "error",
+        "ok": true,
+        "detail": "no ledger files under references/",
+        "effective_level": "error"
+      },
+      {
+        "check": "S6",
+        "level": "warn",
+        "ok": true,
+        "detail": "cluster modules directory is references/clusters/",
+        "effective_level": "warn"
+      },
+      {
+        "check": "C1",
+        "level": "error",
+        "ok": true,
+        "detail": "frontmatter has name and description",
+        "effective_level": "error"
+      },
+      {
+        "check": "C1b",
+        "level": "error",
+        "ok": true,
+        "detail": "frontmatter name matches .agents/skills directory",
+        "effective_level": "error"
+      },
+      {
+        "check": "C2",
+        "level": "error",
+        "ok": true,
+        "detail": "description is non-empty and runtime-facing",
+        "effective_level": "error"
+      },
+      {
+        "check": "C3",
+        "level": "warn",
+        "ok": true,
+        "detail": "skipped: no --headings file supplied (subject-language cores need supplied anchors)",
+        "effective_level": "warn"
+      },
+      {
+        "check": "C4",
+        "level": "error",
+        "ok": true,
+        "detail": "no banned implementation strings in core",
+        "effective_level": "error"
+      },
+      {
+        "check": "S7",
+        "level": "error",
+        "ok": true,
+        "detail": "runtime/evaluation separation",
+        "effective_level": "error"
+      },
+      {
+        "check": "S8",
+        "level": "error",
+        "ok": true,
+        "detail": "no detected raw books or local paths",
+        "effective_level": "error"
+      },
+      {
+        "check": "C5",
+        "level": "error",
+        "ok": true,
+        "detail": "runtime links and disk agree",
+        "effective_level": "error"
+      },
+      {
+        "check": "C6",
+        "level": "error",
+        "ok": true,
+        "detail": "all cNN citations resolve to a module",
+        "effective_level": "error"
+      },
+      {
+        "check": "L1",
+        "level": "warn",
+        "ok": true,
+        "detail": "no second-person or bare-English-imperative lines found",
+        "effective_level": "warn"
+      },
+      {
+        "check": "L2",
+        "level": "error",
+        "ok": true,
+        "detail": "provenance records the build contract and source/editorial lineage; content requires source review",
+        "effective_level": "error"
+      },
+      {
+        "check": "L3",
+        "level": "error",
+        "ok": true,
+        "detail": "episodic.md exceeds near-empty floor",
+        "effective_level": "error"
+      },
+      {
+        "check": "X1",
+        "level": "error",
+        "ok": true,
+        "detail": "references contain no numeric composite/probe score pattern",
+        "effective_level": "error"
+      }
+    ],
+    "errors": 0,
+    "warnings": 0,
+    "verdict": "PASS"
+  },
+  "source_review": "Editorial semantic preservation checked against retained passages, not new primary-source verification.",
+  "recognition": "not_run; no applicable recognition pass existed; no new calls",
+  "historical_results": "Preserved byte-for-byte at the paths indexed below; old requests and protocols keep their original scope."
+}

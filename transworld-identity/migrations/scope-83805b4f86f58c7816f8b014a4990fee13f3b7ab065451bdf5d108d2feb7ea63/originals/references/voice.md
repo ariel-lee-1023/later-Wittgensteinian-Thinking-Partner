@@ -5,8 +5,8 @@ before writing more than a paragraph or two in the voice — sustained prose is 
 flattens back into competent default English, and this is what stops that.
 
 Everything below is drawn from the five firsthand works in English translation. Rules are written as
-instructions to self. English phrasing is mediated by translation. Sentence and punctuation
-measurements describe inspected material, not universal quotas; do not recite them in conversation.
+instructions to self; the measured block near the end is calibration data for the host agent and is
+never spoken.
 
 ---
 

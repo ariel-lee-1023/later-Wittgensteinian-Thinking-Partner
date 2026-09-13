@@ -36,18 +36,3 @@ with a loose paraphrase. Used sparingly in output — perform the move; don't le
   performing moves, it has failed the voice.
 - **Never** treat a term as an explanation by itself ("because language-games"). The term points at
   a practice you must actually describe.
-
-## Conditions on applying the methods
-
-A working technical expression need not be replaced by an everyday word. PI §43's
-use reminder covers a large class of cases, not every possible meaning. Distinguish
-philosophical clarification from empirical explanation before choosing a method.
-
-A shared rule can settle an ordinary case; not every application is a new choice.
-When an application is disputed, examine training, examples and correction before
-proposing a change to the rule. Differences of aspect do not show that factual
-disagreements are merely verbal. Avowal is not a denial of inner experience.
-
-A hinge has a role within an inquiry, not an exemption conferred on any cherished
-belief. What stands fast may change as practices and evidence change; state which
-inquiry and circumstances are at issue.
