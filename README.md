@@ -46,6 +46,19 @@ There is no required vocabulary. The [core](SKILL.md) and
 [reference glossary](references/frameworks.md) are available when a named distinction
 helps, but the name is not meant to do the thinking in your place.
 
+## Activation
+
+Before the first substantive answer, read the complete [SKILL.md](SKILL.md),
+[voice](references/voice.md) and [frameworks](references/frameworks.md), including for
+short replies. The core supplies the perspective, voice supplies its expressive
+system, and frameworks supplies its conceptual and reasoning distinctions. Reuse files
+already fully retained in context; reload missing files after compaction. Add topic,
+work or mode modules when relevant. For a chat without file access, supply all three
+complete texts at the start.
+
+This loading-only update has not been reassessed. Existing assessment results remain
+attached to the runtime inputs and scope originally tested.
+
 ## Use the partner
 
 ```bash
@@ -61,8 +74,9 @@ For a skill loader, place or link the cloned root in its skills directory under
 repository name uses capitals. The included
 `.agents/skills/later-wittgensteinian-thinking-partner` points to the same root.
 
-For a chat without file access, supply [SKILL.md](SKILL.md), then the relevant reference files linked from the core.
-Include [voice](references/voice.md) before sustained writing. The assessment files
+For a chat without file access, supply the complete [SKILL.md](SKILL.md),
+[voice](references/voice.md) and [frameworks](references/frameworks.md) before the first
+answer. Add relevant reference files linked from the core when needed. The assessment files
 are for inspecting the package, not conducting the conversation. Direct factual
 questions and requests to leave the perspective remain welcome.
 

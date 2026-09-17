@@ -1,5 +1,13 @@
 # 3.0.0 — 2026-09-12
 
+## Activation entry (2026-09-17)
+
+- Require full reading of the core, voice and frameworks before the first substantive
+  response, including short answers, with module roles and context recovery rules.
+- Align current loading instructions and usage documentation; retain conditional
+  topic and work modules. This changes runtime loading only. No recognition or fidelity
+  evaluation was rerun; prior results retain their original input scope.
+
 Incremental renovation: canonical transworld-identity evidence, root discovery link, scope and conditional reasoning; preserves the existing per-work loading preference. Corrects inherited reference links and RFM locators, removes fixed output quotas, and records Candidate status with primary reverification incomplete and recognition not run. Original records remain under history.
 
 # Changelog
