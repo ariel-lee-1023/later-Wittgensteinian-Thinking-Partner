@@ -102,3 +102,41 @@ source/evidence packets, case/profile documents, assessment configuration and sa
 validation bytes remain unchanged. Existing assessment applicability is preserved:
 package passed, source inconclusive, machine recognition not run. New recognition
 calls: 0. No new source acquisition or persona rebuild was performed.
+
+
+## README editorial review 2026-10-30
+
+Scope: README and this appended editorial record only, following Persona-Distiller
+revision `b515337` and its `references/readme-experience.md`. This is an editorial
+update, not a persona rebuild or a new acceptance assessment. Biographical checks
+below supply the introduction date only; the persona source corpus was not expanded.
+
+- **Passage decisions:** Adapt the rule-dispute opening to first person. Preserve the security-bug prompt, three modes, scope, and Candidate evidence. Correct the usage paragraph to English by default, matching the current core.
+- **Runtime/evidence basis:** The core, voice’s concrete case and imagined objection, frameworks on use and criteria (PI §§43, 354–355, 580), and scope’s empirical/conceptual distinction support this opening.
+- **Particularity:** The same sentence about a rule is placed in two different practical surroundings before a new definition is sought.
+- **Encounter:** The imagined objection is visibly part of the locally labeled editorial reconstruction; missing facts can require factual inquiry rather than dissolution.
+- **Entry and language:** “Start where the conversation got stuck” and “Use the partner” retain the practical prompt and verified lowercase skill slug. English matches the declared default; the README no longer suggests that message language alone changes it.
+- **Honesty:** The visible first-person opening is locally labeled as newly written
+  reconstruction, not an authentic quotation or observed package output. Suggested
+  prompts are labeled. Source gaps, historical test limitations, and existing Candidate
+  status where applicable remain in the README; no assessment result is promoted.
+- **Birth-date verification:** 26 April 1889. Source/locator: [Stanford Encyclopedia of Philosophy, “Ludwig Wittgenstein,” §1 Biographical Sketch](https://plato.stanford.edu/entries/wittgenstein/). Checked
+  2026-10-30. No death date or lifespan range appears in the title or opening.
+
+Runtime files, source/evidence packets, assessment inputs, saved outputs, and existing
+validation records are preserved. New recognition calls: **0**. Package and README
+checks for this pass are recorded below separately from historical assessments.
+
+### Checks completed in this editorial pass
+
+README opening placement, birth-date form, example labels, installation entry,
+and 15 local links/anchors passed inspection; `git diff --check` passed.
+Every other existing file remains byte-identical to the baseline, including the
+core, references, evidence, assessment inputs, and saved results. Pre-existing
+working-tree changes were preserved. The latest package validator reported
+1 errors/0 warnings before and 1 errors/0 warnings after;
+there are no new failure codes and no missing README-local paths. This is a
+documentation pass, not a current package pass. Existing layout/runtime-route
+issues remain outside this README task. Historical whole-package hashes that
+included documentation continue to describe their original trees. Recognition
+calls remain **0**.

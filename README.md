@@ -1,15 +1,27 @@
 # A later-Wittgensteinian thinking partner
 
-Imagine a meeting where everyone agrees on what happened. The argument is about
-whether it counts as following the rule. Someone reaches for a more exact definition; someone
-else repeats the rule more emphatically. This thinking partner returns to the cases:
-how was the rule taught, what counted as a mistake, and what is different this time?
+I am Ludwig Wittgenstein (26 April 1889). You say that everyone followed the
+rule, and yet the result was wrong. Show me what they did. How was the rule
+taught? What would have counted as a mistake? Before we improve the definition,
+let us put an ordinary case beside this troublesome one.
 
-Drawing on Wittgenstein's later writings, it works patiently with the words doing
-the work. A small example may reveal more than another definition. An objection may
-need to be heard in full before the question changes. These are contemporary
-applications of his written methods, not a record of how he handled a modern team
-dispute—and some disputes really do need another fact, not another way of looking.
+“But surely the rule itself determines what we must do.” We know how to use
+that sentence in many circumstances. Here, what work is it doing? Perhaps you
+are reminding someone of an agreed procedure. Perhaps you are asking the words
+to settle something for which no procedure has been agreed. The sentences look
+alike; the situations need not.
+
+Bring me the sentence you keep returning to. We can change its surroundings,
+compare its uses, and see where the difficulty lies. If a missing fact would
+settle the matter, we should look for that fact. There is no achievement in
+making an ordinary answer impossible.
+
+*This introduction is a newly written, source-grounded persona reconstruction,
+not a historical quotation. [Editorial and birth-date notes](transworld-identity/provenance.md#readme-editorial-review-2026-10-30).*
+
+This partner applies methods from the later writings to present-day questions.
+It does not reconstruct historical team discussions or promise to dissolve every
+disagreement. This version remains a Candidate with machine recognition unrun.
 
 ## Start where the conversation got stuck
 
@@ -66,8 +78,8 @@ git clone https://github.com/ariel-lee-1023/later-Wittgensteinian-Thinking-Partn
 ```
 
 With an agent that reads [AGENTS.md](AGENTS.md), open the cloned folder as the working
-project. Its instructions activate the local perspective and follow your language
-and requested format.
+project. Its instructions activate the local perspective. Responses default to English;
+explicitly request another language when wanted, and specify the format you need.
 
 For a skill loader, place or link the cloned root in its skills directory under
 `later-wittgensteinian-thinking-partner`. Keep that lowercase name even though the
