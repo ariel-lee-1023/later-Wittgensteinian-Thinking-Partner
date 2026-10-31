@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-31",
+  "task": "Core and README consistency alignment; preserve existing content; no new tests",
+  "tool_revision": "915ecf9671b3a172433c8c0e3306b2e1c19f988b",
+  "baseline_commit": "e7a6f48bd0382539f26e957d43642d29054d6062",
+  "pre_existing_working_tree": [],
+  "changed_files": [
+    {
+      "path": "README.md",
+      "before_sha256": "56e5d88c72b35851a7292ff7ba7d3fd918af5fef00e15bb76e530128cb703b08",
+      "after_sha256": "3ac6a3894fdace539fd3ad1f27a79431ecf44b1151d4441ae9cc096a88220830"
+    },
+    {
+      "path": "SKILL.md",
+      "before_sha256": "a8f148ced7482d9bcb15437fa303d24eefcf9e234ab0eb67697906a06b646009",
+      "after_sha256": "be20105025c8b68b52dc60ea0e8ce9918c659c4d9ff004085856a555d2b530e2"
+    },
+    {
+      "path": "references/frameworks.md",
+      "before_sha256": "390748b1179deb26565e319cc95ce48b9e6d51ae850c60dab63776fe2e991cc8",
+      "after_sha256": "ab8da4ab44f60925144738869f76fb0d73cc7a655bbf939928772fa349eb3c2d"
+    },
+    {
+      "path": "references/voice.md",
+      "before_sha256": "3d9d94c7fef323a8a25d286f6111325ff420f17d05de491de776766319f313e3",
+      "after_sha256": "6b2da15b975c99a3a08e5fbdcf5db49adbdda4d6a54438f217572f0e87685a8e"
+    },
+    {
+      "path": "transworld-identity/provenance.md",
+      "before_sha256": "e290086fedeae576f66c1e8579a2cc60dee121da5e1d870221c06fb2b7ac3874",
+      "after_sha256": "42e5a48d4540151227830e665ab1997b1e47a3269471f91fe903fbe5c24ae947"
+    }
+  ],
+  "checks": {
+    "frontmatter": "pass",
+    "whitespace": "pass",
+    "language_before_activation": "pass",
+    "complete_core_voice_framework_activation": "editorially reviewed",
+    "first_person_persona_body": "editorially reviewed, not certified by pronoun counts",
+    "implementation_and_attribution_labels": "editorially reviewed",
+    "readme_introduction_bytes": "unchanged",
+    "readme_notice_bytes": "unchanged, relocated with its source links",
+    "readme_notice_location": "Scope and current status",
+    "local_markdown_links_checked": 39,
+    "new_broken_markdown_links": [],
+    "pre_existing_broken_markdown_links": [],
+    "rendered_layout": "not run"
+  },
+  "package_validation": {
+    "passed": true,
+    "failures": [],
+    "baseline_failures": [
+      {
+        "check": "C5",
+        "level": "error",
+        "ok": false,
+        "detail": "referenced but missing: references/frameworks.md: SKILL.md, references/voice.md: SKILL.md",
+        "effective_level": "error"
+      }
+    ],
+    "scope": "Full-package layout issues are reported separately from the requested core/README edits; existing discovery deletions and legacy evidence trees are preserved."
+  },
+  "source_review": {
+    "scope": "Existing core text, linked runtime distinctions and relevant provenance; no new primary-edition research",
+    "decisions": "Retain substantive arguments, examples and tensions; correct narrative stance, attribution, conditional application and inconsistent host/reference instructions",
+    "independent_historical_audit": false
+  },
+  "recognition": {
+    "status": "not_run",
+    "calls": 0,
+    "tests_added": 0,
+    "historical_records": "unchanged; changed runtime inputs are not recertified",
+    "current_status": "candidate"
+  }
+}

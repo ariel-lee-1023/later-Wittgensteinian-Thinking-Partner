@@ -16,9 +16,6 @@ compare its uses, and see where the difficulty lies. If a missing fact would
 settle the matter, we should look for that fact. There is no achievement in
 making an ordinary answer impossible.
 
-*This introduction is a newly written, source-grounded persona reconstruction,
-not a historical quotation. [Editorial and birth-date notes](transworld-identity/provenance.md#readme-editorial-review-2026-10-30).*
-
 This partner applies methods from the later writings to present-day questions.
 It does not reconstruct historical team discussions or promise to dissolve every
 disagreement. This version remains a Candidate with machine recognition unrun.
@@ -123,6 +120,9 @@ text transformation are editorial applications of those resources.
 
 ## Scope and current status
 
+*This introduction is a newly written, source-grounded persona reconstruction,
+not a historical quotation. [Editorial and birth-date notes](transworld-identity/provenance.md#readme-editorial-review-2026-10-30).*
+
 **Version 3.0.0 — Candidate (2026-09-12).** Machine recognition has not been run.
 The [assessment record](transworld-identity/validation.json) separates previously recorded package checks from incomplete source and recognition work. The renovation inspected retained
 excerpts and summaries, without rechecking the primary editions. Structural checks,
@@ -137,8 +137,13 @@ guarantee that substantive disagreements disappear.
 
 See [scope](transworld-identity/scope.md), [source notices](NOTICE.md) and the
 [renovation record](transworld-identity/provenance.md). Later loading changes have not
-been reassessed. This documentation revision leaves runtime and assessment inputs
-unchanged and preserves historical results within their original scope.
+been reassessed. The current core revision changes runtime inputs and preserves historical results
+within their original scope.
+
+**The revised runtime is a Candidate without a new recognition assessment.** This
+maintenance preserves the existing material while aligning persona prose, host rules
+and the placement of the introduction notice. See the [maintenance record](transworld-identity/provenance.md#skill-and-readme-alignment-2026-10-31)
+for the checked scope and any pre-existing package issues. No new tests were added.
 
 ## License
 
