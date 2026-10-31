@@ -23,7 +23,12 @@ This partner applies methods from the later writings to present-day questions.
 It does not reconstruct historical team discussions or promise to dissolve every
 disagreement. This version remains a Candidate with machine recognition unrun.
 
-## Start where the conversation got stuck
+
+Move from a troublesome sentence to its uses, the examples that teach its criteria, and the point at which further questioning ceases to help.
+
+[Uses](#what-to-bring) · [Getting started](#getting-started) · [Files and loading](#files-and-loading) · [Sources](#sources-and-contributions) · [Scope and status](#scope-and-current-status) · [License](#license)
+
+## What to bring
 
 **A suggested first prompt:**
 
@@ -41,8 +46,6 @@ there is no virtue in asking forever. The partner should be able to give the ans
 You can ask it to explain a distinction, consider a counterexample, or stop reframing
 a question that no longer needs it.
 
-## Three ways to work together
-
 | Bring this | The work it invites |
 |---|---|
 | A finished claim, slogan or argument | **Inspect it.** Put the sentence in a situation, separate its claims, and ask what would count as understanding or correcting it. A metaphor may be useful without being a factual report. |
@@ -58,61 +61,86 @@ There is no required vocabulary. The [core](SKILL.md) and
 [reference glossary](references/frameworks.md) are available when a named distinction
 helps, but the name is not meant to do the thinking in your place.
 
-## Activation
+These are intended uses of the written methods, not demonstrated conversational outcomes.
 
-Before the first substantive answer, read the complete [SKILL.md](SKILL.md),
-[voice](references/voice.md) and [frameworks](references/frameworks.md), including for
-short replies. The core supplies the perspective, voice supplies its expressive
-system, and frameworks supplies its conceptual and reasoning distinctions. Reuse files
-already fully retained in context; reload missing files after compaction. Add topic,
-work or mode modules when relevant. For a chat without file access, supply all three
-complete texts at the start.
+## Getting started
 
-This loading-only update has not been reassessed. Existing assessment results remain
-attached to the runtime inputs and scope originally tested.
-
-## Use the partner
-
-```bash
+```sh
 git clone https://github.com/ariel-lee-1023/later-Wittgensteinian-Thinking-Partner.git later-wittgensteinian-thinking-partner
 ```
 
-With an agent that reads [AGENTS.md](AGENTS.md), open the cloned folder as the working
-project. Its instructions activate the local perspective. Responses default to English;
-explicitly request another language when wanted, and specify the format you need.
+Open the cloned folder with an agent that reads [AGENTS.md](AGENTS.md), or install
+the root under `later-wittgensteinian-thinking-partner` in another skill host. Keep
+that lowercase skill name even though the GitHub repository uses capitals. Explicit
+requests to leave the perspective or maintain the files take precedence.
+Invoke `later-wittgensteinian-thinking-partner` through your host's skill selector, or ask it to use this perspective with one of the situations above.
 
-For a skill loader, place or link the cloned root in its skills directory under
-`later-wittgensteinian-thinking-partner`. Keep that lowercase name even though the
-repository name uses capitals. The included
-`.agents/skills/later-wittgensteinian-thinking-partner` points to the same root.
+Responses default to **English**. Explicitly request another language, for example
+“Answer in Chinese for this conversation,” to change it for that scope. A message
+written in another language alone does not change the default.
 
-For a chat without file access, supply the complete [SKILL.md](SKILL.md),
-[voice](references/voice.md) and [frameworks](references/frameworks.md) before the first
-answer. Add relevant reference files linked from the core when needed. The assessment files
-are for inspecting the package, not conducting the conversation. Direct factual
-questions and requests to leave the perspective remain welcome.
+### Loading and manual configuration
 
-## The writings behind it
+Before the first substantive response, including a short answer, read the complete
+[core](SKILL.md), [voice](references/voice.md) and [frameworks](references/frameworks.md).
+The core alone is incomplete. Keep complete texts already in context and reload any
+lost after compaction. Add relevant topic or work modules as the question requires.
+For a chat without file access, supply those three complete texts and the relevant
+module yourself. Maintenance and assessment records are not ordinary conversation inputs.
 
-The perspective draws on *Philosophical Investigations*, *On Certainty*, *Remarks on
-the Philosophy of Psychology I*, *Remarks on the Foundations of Mathematics*, and
-*Culture and Value*. It follows later investigations of use, rules, certainty,
-psychological expressions and the work of philosophy; it does not combine them into
-an early-*Tractatus* voice or a complete system.
+## Files and loading
 
-The material supports written remarks, concrete comparisons and imagined objections.
-Professional collaboration and text transformation extend those methods; they do not
-reproduce documented historical conversations. English phrasing is mediated by
+These are file responsibilities and loading relationships, not a fixed sequence of thought.
+
+| File or entry | What it provides | When it is used |
+| --- | --- | --- |
+| [Core](SKILL.md) | Perspective, language and operating instructions | Read in full at setup |
+| [Voice](references/voice.md) | Expression, register and interaction | Read in full at setup |
+| [Frameworks](references/frameworks.md) | Concepts, methods and conditional judgments | Read in full at setup |
+| [Topic and source modules](references/clusters/) | Evidence, examples and work-specific distinctions | Load when relevant to the question |
+| [Modes](references/modes/) | Inspecting, thinking alongside and re-voicing a text | Load the mode called for by the task |
+| [Maintenance records](transworld-identity/) | Provenance, editorial history and assessment evidence | Outside the ordinary conversation prompt |
+| [.agents/skills/later-wittgensteinian-thinking-partner](.agents/skills/later-wittgensteinian-thinking-partner) | Relative symlink to the repository root | Host discovery; not a second runtime copy |
+
+## Sources and contributions
+
+The five works are later writings of Ludwig Wittgenstein, in English translation.
+The table identifies their different contributions; it is not a proposed unified system
+or a claim that an interpretive application is a historical conversation.
+
+| Question or concern | Work | Contribution and reference |
+| --- | --- | --- |
+| What does using a word or following a rule involve? | *Philosophical Investigations* | Practices, criteria, family resemblances and comparisons that loosen a misleading picture. [Investigations](references/clusters/pi.md) |
+| What must stand fast for a doubt or test to work? | *On Certainty* | Grounds, hinges and the limits of treating all propositions as ordinary evidence claims. [Certainty](references/clusters/oc.md) |
+| What changes when an aspect dawns? | *Remarks on the Philosophy of Psychology I* | Seeing-as, psychological expressions and their surroundings in a life. [Psychology](references/clusters/rpp.md) |
+| What work do proof and necessity do? | *Remarks on the Foundations of Mathematics* | Rule application and mathematical practices, without replacing empirical questions by grammar. [Mathematics](references/clusters/rfm.md) |
+| What makes philosophical work difficult? | *Culture and Value* | Reflection on method, self-deception, culture and the will. [Reflective remarks](references/clusters/cv.md) |
+
+[Provenance](transworld-identity/provenance.md) retains the source inventory and
+translation/OCR qualifications. The corpus supplies written remarks and imagined
+objections, not a lecture or correspondence register. Professional collaboration and
+text transformation are editorial applications of those resources.
+
+## Scope and current status
+
+**Version 3.0.0 — Candidate (2026-09-12).** Machine recognition has not been run.
+The [assessment record](transworld-identity/validation.json) separates previously recorded package checks from incomplete source and recognition work. The renovation inspected retained
+excerpts and summaries, without rechecking the primary editions. Structural checks,
+source review and sampled responses cannot substitute for recognition assessment.
+
+This is the later perspective represented by the five works above, not an
+early-*Tractatus* voice or a complete system. English phrasing is mediated by
 translation, and some earlier measurements were affected by OCR. Exact quotations
-or contested attributions need the relevant edition. The [scope notes](transworld-identity/scope.md)
-and [source notices](NOTICE.md) explain these limits.
+or contested attributions require the relevant edition; *Culture and Value* locators
+remain incomplete. Factual questions still require facts, and clarification does not
+guarantee that substantive disagreements disappear.
 
-**Version 3.0.0 — Candidate (2026-09-12).** Machine recognition has not been run, so
-this version has not established how recognizably it sustains the perspective in the
-planned comparisons. The renovation used retained excerpts and summaries; primary
-editions were not rechecked. The [assessment record](transworld-identity/validation.json)
-separates the passed package checks from the incomplete source and recognition work.
-The [renovation record](transworld-identity/provenance.md) preserves the editorial
-choices and earlier evidence; historical results retain their original scope.
+See [scope](transworld-identity/scope.md), [source notices](NOTICE.md) and the
+[renovation record](transworld-identity/provenance.md). Later loading changes have not
+been reassessed. This documentation revision leaves runtime and assessment inputs
+unchanged and preserves historical results within their original scope.
+
+## License
 
 [MIT](LICENSE) covers the original skill material, not the source books or translations.
+See [NOTICE](NOTICE.md) for exclusions.
